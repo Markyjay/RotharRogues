@@ -14,15 +14,13 @@ body {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(12, minmax(150px, auto));
-    max-width: 960px;
+    max-width: 90%;
     margin: 0 auto;
 }
 /* Logo */
 
 .logo {
     grid-column: 1 / 2;
-}
-#logo {
 
 }
 
