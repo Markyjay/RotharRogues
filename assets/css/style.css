@@ -13,7 +13,7 @@ body {
 .grid-container {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
-    grid-template-rows: repeat(12, minmax(150px, auto));
+    grid-template-rows: repeat(12, minmax(50px, auto)); 
     max-width: 90%;
     margin: 0 auto;
 }
@@ -21,14 +21,24 @@ body {
 
 .logo {
     grid-column: 1 / 2;
-
+    grid-row: 1 / 2;
+    
 }
+#logo {
+    height: auto;
+    width: auto;
+    background-image: url(../images/RR\ Logo.JPG) no-repeat center center;
+    }
 
 
 /* Heading */
 .heading {
     grid-column: 2 / 6;
     grid-row: 1 / 2;
+}
+
+#heading {
+    background-color: aquamarine;
 }
 
 /* Nav */
