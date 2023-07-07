@@ -1,2 +1,2 @@
-# project1
-Starting my first project for Code institute
+# Rothar Rogues
+A project about a mens shed activity group.
