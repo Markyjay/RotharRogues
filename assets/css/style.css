@@ -1,5 +1,5 @@
 * {
-    margin: 10px;
+    margin: 0px;
     padding: 10px;
     border: none;
 }
@@ -10,45 +10,82 @@ body {
     color: #3a3a3a;
 }
 
+h1, h2 {
+    font-family: 'Indie Flower', cursive;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: blue;
+    text-align: center;
+}
+
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(10, minmax(50px, auto));
     grid-template-rows: repeat(12, minmax(50px, auto)); 
     max-width: 90%;
     margin: 0 auto;
+    border: 2px solid;
 }
 /* Logo */
 
 .logo {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
+    border: 1px solid;
     
 }
 #logo {
-    height: auto;
-    width: auto;
-    background-image: url(../images/RR\ Logo.JPG) no-repeat center center;
+    
+    background: url(../images/RR\ Logo.JPG) no-repeat center center;
+    background-size: 100%;
+    position: absolute;
+    padding: none;
     }
 
 
 /* Heading */
 .heading {
-    grid-column: 2 / 6;
+    grid-column: 2 / 8;
     grid-row: 1 / 2;
+    border: 2px solid;    
 }
 
 #heading {
-    background-color: aquamarine;
+   
+    background-color: rgb(127, 150, 255);
 }
 
 /* Nav */
 
 .nav {
-    grid-column: 6 / 11;
+    grid-column: 8 / 11;
     grid-row: 1 / 2;
+    border: 2px solid;   
 }
 
+#nav {
+    font-size: 100%;
+    letter-spacing: 2px;
+}
 
+#nav li {
+    float: right;
+    list-style-type: none;
+    margin-right: 5px;
+    
+}
+
+#nav a {
+    text-decoration: none;
+    color: inherit;
+
+
+}
+/*
+#logo, #heading, #nav {
+    line-height: 75px;
+}
+*/
 /* Main image */
 
 .main-image {
