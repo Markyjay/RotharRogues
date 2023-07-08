@@ -36,7 +36,7 @@ h1, h2 {
     
 }*/
 #logo {
-    
+    float: left;
     background: url(../images/RR\ Logo.JPG) no-repeat center center;
     background-size: 200%;
     
@@ -52,8 +52,9 @@ h1, h2 {
 }*/
 
 #heading {
-   
-    background-color: rgb(127, 150, 255);
+    float: center;
+    font-size: 300%;
+    background-color: rgb(7, 35, 156);
 }
 
 /* Nav */
