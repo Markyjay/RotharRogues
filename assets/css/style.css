@@ -17,7 +17,7 @@ h1, h2 {
     color: blue;
     text-align: center;
 }
-
+/*
 .grid-container {
     display: grid;
     grid-template-columns: repeat(10, minmax(50px, auto));
@@ -25,15 +25,16 @@ h1, h2 {
     max-width: 90%;
     margin: 0 auto;
     border: 2px solid;
-}
+}*/
+
 /* Logo */
 
-.logo {
+/*.logo {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     border: 2px solid;
     
-}
+}*/
 #logo {
     
     background: url(../images/RR\ Logo.JPG) no-repeat center center;
@@ -44,11 +45,11 @@ h1, h2 {
 
 
 /* Heading */
-.heading {
+/*.heading {
     grid-column: 2 / 8;
     grid-row: 1 / 2;
     border: 2px solid;    
-}
+}*/
 
 #heading {
    
@@ -57,11 +58,11 @@ h1, h2 {
 
 /* Nav */
 
-.nav {
+/*.nav {
     grid-column: 8 / 11;
     grid-row: 1 / 2;
     border: 2px solid;   
-}
+}*/
 
 #nav {
     font-size: 100%;
@@ -91,49 +92,56 @@ h1, h2 {
 }
 /* Main image */
 
-.main-image {
+/*.main-image {
     grid-column: 1 / 8;
     grid-row: 2 / 6;
     border: 2px solid;
 }
+*/
+#main-image {
+    height: 100%;
+    width: 100%;
+    background: url(../images/Bike\ under\ bridge.jpg) no-repeat center center;
+}
 
 /* Main Statement */
 
-.statement {
+/*.statement {
     grid-column: 6 / 11;
     grid-row: 3 / 5;
     border: 2px solid;
 }
-
+*/
 /* Relevent Picture */
 
-.picture {
+/*.picture {
     grid-column: 1 / 4;
     grid-row: 6 / 9;
     border: 2px solid;
-}
+}*/
 
 /* Picture Statement */
 
-.description {
+/*.description {
     grid-column: 4 / 11;
     grid-row: 6 / 9;
     border: 2px solid;
 }
-
+*/
 /* About-on-main */
 
-.about {
+/*.about {
     grid-column: 1 / 11;
     grid-row: 9 / 10;
     border: 2px solid;
 }
+*/
 
 /* Social Media */
 
-.social-media {
+/*.social-media {
     grid-column: 1 / 11;
     grid-row: 10 / 12;
     border: 2px solid;
 }
-
+*/
