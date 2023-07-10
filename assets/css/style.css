@@ -14,13 +14,14 @@ body {
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
+    
     }
 
 h1, h2 {
     font-family: 'Indie Flower', cursive;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: blue;
+    color: rgb(251, 251, 253);
     text-align: center;
 }
 /*
@@ -45,7 +46,7 @@ h1, h2 {
     float: left;
     background: url(../images/RR\ Logo.JPG) no-repeat center center;
     background-size: 200%;
-    
+    position: fixed;
     padding: none;
     }
 
@@ -59,9 +60,10 @@ h1, h2 {
 
 #heading {
     float: center;
-    margin-left: 80px;
-    margin-right: 40px;
-    background-color: rgb(94, 108, 167);
+    margin-left: 150px;
+    margin-right: 450px;
+    background-color: rgb(94, 108, 167, 0.6);
+    position: relative;
 }
 #heading-text {
     color: azure;
@@ -76,31 +78,36 @@ h1, h2 {
 }*/
 
 #nav {
-    font-size: 100%;
+    font-size: 150%;
     letter-spacing: 2px;
+    position: relative;
     
 }
 
-#nav li {
-    float: right;
+ul {
     list-style-type: none;
-    margin-right: 10px;
-    
-}
-
-#nav a {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(59, 69, 110, 0.5);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    color: inherit;
-
-}
-
-#nav a:hover {
-    border-bottom: 2px solid #3a3a3a;
-}
-
-.active {
-    border-bottom: 2px solid #3a3a3a;   
-}
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
 /* Main image */
 
 /*.main-image {
@@ -110,9 +117,9 @@ h1, h2 {
 }
 */
 #main-image {
-    height: 600px;
-    width: 60%;
-    background: url(../images/Bike\ under\ bridge.jpg) no-repeat center center;
+    height: 900px;
+    width: 70%;
+    background: url(../images/Bike\ under\ bridge.jpg) no-repeat left center;
 }
 
 /* Main Statement */
