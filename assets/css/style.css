@@ -8,7 +8,13 @@ body {
     font-family: 'Indie Flower', cursive;
     font-weight: 300;
     color: #3a3a3a;
-}
+    background-image: url(../images/Bikes\ and\ Daffodils.jpg); /* The image used */
+    background-color: rgba(0, 128, 0, 0.3); /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    }
 
 h1, h2 {
     font-family: 'Indie Flower', cursive;
@@ -53,12 +59,14 @@ h1, h2 {
 
 #heading {
     float: center;
-    font-size: 300%;
     margin-left: 80px;
-    margin-right: 400px;
-    background-color: rgb(7, 35, 156);
+    margin-right: 40px;
+    background-color: rgb(94, 108, 167);
 }
-
+#heading-text {
+    color: azure;
+    font-size: 200%;
+}
 /* Nav */
 
 /*.nav {
@@ -163,7 +171,7 @@ position: absolute;
 }
 */
 #description {
-    
+
 }
 
 /* About-on-main */
