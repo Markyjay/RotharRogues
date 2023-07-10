@@ -46,7 +46,7 @@ h1, h2 {
     float: left;
     background: url(../images/RR\ Logo.JPG) no-repeat center center;
     background-size: 200%;
-    position: fixed;
+    position: relative;
     padding: none;
     }
 
@@ -145,7 +145,7 @@ position: absolute;
 }
 
 #statement, #statement h2 {
-    color
+    color:aliceblue;
 }
 
 
