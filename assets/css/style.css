@@ -1,29 +1,36 @@
 * {
-    margin: 0px;
-    padding: 10px;
-    border: none;
+  margin: 0px;
+  padding: 10px;
+  border: none;
 }
 
 body {
-    font-family: 'Indie Flower', cursive;
-    font-weight: 300;
-    color: #3a3a3a;
-    background-image: url(../images/Bike\ under\ bridge.jpg);  /* The image used */
-    background-color: rgba(0, 128, 0, 0.3); /* Used if the image is unavailable */
-    height: 500px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+  font-family: 'Indie Flower', cursive;
+  font-weight: 300;
+  color: #3a3a3a;
+  /* background-image: url(../images/Bike\ under\ bridge.jpg);  /* The image used */
+  background-color: rgba(0, 128, 0, 0.3);
+  /* Used if the image is unavailable */
+  height: 500px;
+  /* You must set a specified height */
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
 
-    }
-
-h1, h2 {
-    font-family: 'Indie Flower', cursive;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: rgb(251, 251, 253);
-    text-align: center;
 }
+
+h1,
+h2 {
+  font-family: 'Indie Flower', cursive;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: rgb(251, 251, 253);
+  text-align: center;
+}
+
 /*
 .grid-container {
     display: grid;
@@ -43,18 +50,19 @@ h1, h2 {
     
 }*/
 #logo {
-    float: left;
-    background: no-repeat center center;
-    background-size: 80%;
-    border-radius: 30px;
-    position: relative;
-    padding: none;
+  float: left;
+  background: no-repeat center center;
+  position: relative;
+  height: 170px;
+  width: 170px;
+  border-radius: 1000px;
+  padding: none;
 
-    }
+}
 
 #logo img {
-        border-radius: 100px;
-    }
+   size: 100%;
+}
 
 
 /* Heading */
@@ -65,17 +73,19 @@ h1, h2 {
 }*/
 
 #heading {
-    float: center;
-    margin-left: 200px;
-    margin-right: 450px;
-    background-color: rgba(109, 175, 114, 0.6);
-    border-radius: 100px;
-    position: relative;
+  float: center;
+  margin-left: 200px;
+  margin-right: 450px;
+  background-color: rgba(109, 175, 114, 0.6);
+  border-radius: 100px;
+  position: relative;
 }
+
 #heading-text {
-    color: azure;
-    font-size: 500%;
+  color: azure;
+  font-size: 500%;
 }
+
 /* Nav */
 
 /*.nav {
@@ -85,36 +95,36 @@ h1, h2 {
 }*/
 
 #nav {
-    font-size: 150%;
-    letter-spacing: 2px;
-    position: relative;
-    
+  font-size: 150%;
+  letter-spacing: 2px;
+  position: relative;
+
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: rgba(59, 69, 110, 0.5);
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    background-color: #111;
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(59, 69, 110, 0.5);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
 
 /* Main image */
 
@@ -125,35 +135,36 @@ ul {
 }
 */
 #main-image {
-    height: 1500px;
-    width: 150%;
-       
+  height: 1500px;
+  width: 150%;
+
 }
 
 /* Main Statement */
 
 #statement {
-font-size: 120%;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-text-transform: uppercase;
-letter-spacing: 3px;
+  font-size: 120%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 
-width: 300px;
-height: 200px;
+  width: 300px;
+  height: 200px;
 
-padding-top: 40px;
-padding-left: 10px;
+  padding-top: 40px;
+  padding-left: 10px;
 
-background-color: rgba(1, 13, 116, 0.6);
-border-radius: 30px;
-bottom: 400px;
-right: 500px;
+  background-color: rgba(1, 13, 116, 0.6);
+  border-radius: 30px;
+  bottom: 400px;
+  right: 500px;
 
-position: absolute;
+  position: absolute;
 }
 
-#statement, #statement h2 {
-    color:aliceblue;
+#statement,
+#statement h2 {
+  color: aliceblue;
 }
 
 
@@ -171,9 +182,9 @@ position: absolute;
     border: 2px solid;
 }*/
 #picture {
-    height: 200px;
-    width: 30%;
-    background: url(../images/Bikes\ on\ a\ bridge.jpg) no-repeat center center;
+  height: 200px;
+  width: 30%;
+  background: url(../images/Bikes\ on\ a\ bridge.jpg) no-repeat center center;
 }
 
 
@@ -185,9 +196,7 @@ position: absolute;
     border: 2px solid;
 }
 */
-#description {
-
-}
+#description {}
 
 /* About-on-main */
 
@@ -209,20 +218,20 @@ position: absolute;
 
 /* Footer */
 
-footer{
+footer {
   height: 150px;
 }
 
-.social-networks{
+.social-networks {
   text-align: center;
 
 }
 
-.social-networks li{
+.social-networks li {
   display: inline;
 }
 
-.social-networks i{
+.social-networks i {
   font-size: 160%;
   margin: 1%;
   padding: 5%;
@@ -238,7 +247,7 @@ footer{
   column-gap: 0px;
 }
 
-#photo img{
+#photo img {
   width: 100%;
 }
 
@@ -253,7 +262,7 @@ footer{
 }
 
 .signup-form {
-  margin:150px 10% 0 0;
+  margin: 150px 10% 0 0;
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   max-width: 400px;
@@ -261,11 +270,13 @@ footer{
   left: 10%;
   padding: 30px;
 }
+
 .signup-form h2 {
   color: #fafafa;
   margin-bottom: 20px;
-  
+
 }
+
 .text-input {
   background: transparent;
   color: #fafafa;
@@ -279,6 +290,7 @@ footer{
 .text-input:hover {
   border-color: #f16c6b;
 }
+
 .join-button {
   margin-top: 20px;
   border-radius: 2px;
@@ -290,55 +302,55 @@ footer{
   display: block;
 }
 
-.join-button:hover { 
+.join-button:hover {
   background-color: #fafafa;
   color: #f16c6b;
 }
 
 /* About page styling */
 div.gallery {
-    border: 1px solid #ccc;
-  }
-  
-  div.gallery:hover {
-    border: 1px solid #777;
-  }
-  
-  div.gallery img {
-    width: 100%;
-    height: auto;
-  }
-  
-  div.desc {
-    padding: 15px;
-    text-align: center;
-  }
-  
-  * {
-    box-sizing: border-box;
-  }
-  
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
   .responsive {
-    padding: 0 6px;
-    float: left;
-    width: 24.99999%;
+    width: 49.99999%;
+    margin: 6px 0;
   }
-  
-  @media only screen and (max-width: 700px) {
-    .responsive {
-      width: 49.99999%;
-      margin: 6px 0;
-    }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
   }
-  
-  @media only screen and (max-width: 500px) {
-    .responsive {
-      width: 100%;
-    }
-  }
-  
-  .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
