@@ -13,30 +13,33 @@ The languages used to create the website are HTML5 and CSS3.
 A live version of the site can be found here: 
 
 # Table of contents
-•	UX
-o	User Demographic
-o	User Goals
-o	Design
-o	Colour Scheme
-o	Typography
-o	Images
-•	Features
-o	Header and Navigation Bar
-o	Hero Image
-o	Welcome
-o	Home and Biography
-o	Collection
-o	Footer
-o	Thank you Page
-•	Technologies Used
-•	Testing
+#	UX
+*	User Demographic
+*	User Goals
+*	Design
+*	Colour Scheme
+*	Typography
+*	Images
+*	Features
+*	Header and Logo
+*	Navigation Bar
+* Main Image
+* Welcome Section
+* About Page
+* Events Section
+* Gallery
+*	Footer
+*	Contact Page
+* Technologies Used
+* Testing
 o	Validator testing
 o	Testing and bugs
-•	Deployment
-•	Media
-•	Acknowledgements
-•	Sources
-UX
+*	Deployment
+*	Media Sources
+*	Other Helpful Sources
+*	Acknowledgements
+
+# UX
 
 # User Demographic
 This site is designed for those who would like to learn more about what mens shed groups do and are involved in. It will help those who wish to be involved or know those who would enjoy being involved to gain access to information about the groups event past and future.
@@ -77,7 +80,7 @@ Images are a collection of pictures from the facebook page of the bulfin heritag
 •	Footer
 •	Contact page
 
-# Header 
+# Header and Logo
 This header consists of a logo designed by myself on a Canva using a vintage bike template and old style text. The logo is placed to the left on the header. The navigation links for the four pages are aligned to the left of the header.
 The logo is also an anchor link to the Home page.
 Cut out of the logo and header
