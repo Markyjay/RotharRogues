@@ -201,7 +201,6 @@ li a:hover {
     border: 2px solid;
 }
 */
-#description {}
 
 /* About-on-main */
 
@@ -255,7 +254,7 @@ footer {
 .gallery {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: repeat(12, 1fr);
+  grid-template-rows: repeat(12, 0.5fr);
   grid-gap: 10px;
 }
 
