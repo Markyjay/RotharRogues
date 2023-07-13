@@ -12,7 +12,7 @@ This project is the first of 5 projects that is required in order to receive my 
 The languages used to create the website are HTML5 and CSS3.
 A live version of the site can be found here: 
 
-Table of contents
+# Table of contents
 •	UX
 o	User Demographic
 o	User Goals
@@ -38,34 +38,35 @@ o	Testing and bugs
 •	Sources
 UX
 
-User Demographic
+# User Demographic
 This site is designed for those who would like to learn more about what mens shed groups do and are involved in. It will help those who wish to be involved or know those who would enjoy being involved to gain access to information about the groups event past and future.
 
-User Goals 
+# User Goals 
 •	To encourage more people to get involved in community based project that benefit the local people.
 •	To advertise the great things that the group is involved in.
 •	To display and record the groups activities and events.
 •	To bring together a community of people to become more active.
 
-Design
+# Design
 The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. The aim was to create a similar project to the Love Running project in the course program that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
 
-Color Scheme
+# Color Scheme
 The colour scheme I picked myself, I found them appealing to the eyes and relative to the Rothar Rogues logo and jackets they wear. They are consisting of;
 •	A light shade for the subheading in the menu-bar
 •	A shade darker than the above one for the text; 
 •	A dark green shade for the headings;
-Topography
+
+# Topography
 •	The fonts used for this project were from https://fonts.google.com/
 •	Icons for the social media links from https://fontawesome.com/
 •	The fonts used for the headings: 
 •	The fonts used for body: 
 •	The fonts used for the heading "Chrononlogical Order" were Cursive and 'parisienne'.
 
-Images
+# Images
 Images are a collection of pictures from the facebook page of the bulfin heritage cycle rally and the Instagram page of pedal vintage Durrow as well as other photos collected from the local whatsapp group. The purpose of the website is to give a friendly look and express quality. Images have been sized in order to match design and consistency.
 
-Features
+# Features
 •	Logo and Header
 •	Navigation Bar
 •	Main Image
@@ -76,44 +77,44 @@ Features
 •	Footer
 •	Contact page
 
-Header 
+# Header 
 This header consists of a logo designed by myself on a Canva using a vintage bike template and old style text. The logo is placed to the left on the header. The navigation links for the four pages are aligned to the left of the header.
 The logo is also an anchor link to the Home page.
 Cut out of the logo and header
 
-Navigation Bar
+# Navigation Bar
 >>>>
 
 Cut out of the navigation bar
 
-Main Image
+# Main Image
 >>>>>>
 
 Picture
 
-Welcome section
+# Welcome section
 >>>>>>>
 
 Picture with paragraph and comment
 
-About page
+# About page
 >>>>>
-Events Section
+# Events Section
 >>>>>
-Gallary
+# Gallary
 Mosaic cssgrid …..
-Footer
+# Footer
 Social media and various links to supporting companies
 
-Contact Page 
+# Contact Page 
 To get regular updates and reviews of upcoming events. 
 
 
-Technologies Used
+# Technologies Used
 •	HTML5
 •	CSS3
 
-Testing
+# Testing
 •	HTML5
 Validator testing
 W3C HTML validator testing
@@ -129,12 +130,12 @@ Picture of results
 
 
 
-Lighthouse testing
+# Lighthouse testing
 
 Testing and bugs
 
 
-Deployment
+# Deployment
 
 The development platform used for this project was GitPod. To track the development stage and handle version control regular commits and pushes to GitHub has been conducted. The GitPod environment was created using a template provided by Code Institute.
 The live version of the project is deployed at GitHub pages.
@@ -143,13 +144,13 @@ The procedure for deployment followed the "Creating your site" steps provided in
 The live deployed link can be found here :
 
 
-Media Sources
+# Media Sources
 
 
-Other Helpful sources
+# Other Helpful sources
 
 
 
-Acknowledgements
+# Acknowledgements
 
 
