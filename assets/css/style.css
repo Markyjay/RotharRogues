@@ -206,6 +206,12 @@ li a:hover {
 */
 
 /* About-on-main */
+#about {
+  font-size: 120%;
+  letter-spacing: 3px;
+  background-color: rgb(8 137 234 / 40%);
+  border-radius: 30px;
+  }
 
 /*.about {
     grid-column: 1 / 11;
