@@ -23,7 +23,7 @@ body {
 }
 
 h1,
-h2 {
+h2, h3 {
   font-family: 'Bree Serif', serif;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -53,11 +53,11 @@ h2 {
   float: left;
   background: no-repeat center center;
   position: relative;
-  height: 170px;
-  width: 170px;
+  height: 200px;
+  width: 200px;
   border-radius: 1000px;
   padding: none;
-
+  margin-top: 20px;
 }
 
 #logo img {
@@ -111,7 +111,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgba(114, 116, 245, 0.5);
+  background-color: rgb(8 137 234 / 68%);
   border-radius: 40px;
 }
 
@@ -141,8 +141,11 @@ li a:hover {
 }
 */
 #main-image {
-  height: 1500px;
-  width: 150%;
+  height: 650px;
+  width: 50%;
+  margin-left: 70px;
+  border-style: groove;
+  padding: 0px;
 
 }
 
@@ -150,27 +153,12 @@ li a:hover {
 
 #statement {
   font-size: 120%;
-  font-family: 'Lobster', cursive;
-  text-transform: uppercase;
   letter-spacing: 3px;
-
-  width: 300px;
-  height: 200px;
-
-  padding-top: 40px;
-  padding-left: 10px;
-
-  background-color: rgba(1, 13, 116, 0.6);
+  background-color: rgb(8 137 234 / 68%);
   border-radius: 30px;
   bottom: 400px;
   right: 500px;
 
-  position: absolute;
-}
-
-#statement,
-#statement h2 {
-  color: aliceblue;
 }
 
 
