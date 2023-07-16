@@ -110,8 +110,6 @@ h2, p {
 #nav {
   font-size: 150%;
   letter-spacing: 2px;
-  position: relative;
-
 }
 
 ul {
@@ -186,14 +184,19 @@ li a:hover {
     border: 2px solid;
 }*/
 #picture {
-  height: 200px;
-  width: 30%;
+  height: 500px;
+  width: auto;
   background: url(../images/Bikes\ on\ a\ bridge.jpg) no-repeat center center;
   border-radius: 900px;
 }
 
 
-/* Picture Statement */
+/* welcome Statement */
+#welcome {
+  color: #071ff8;
+  background-color: rgb(8 137 234 / 40%);
+  border-radius: 30px;
+  }
 
 /*.description {
     grid-column: 4 / 11;
