@@ -21,7 +21,14 @@ body {
   text-align: center;
 }
 
-h1,
+h1 {
+  font-family: 'Bree Serif', serif;
+  text-transform: uppercase;
+  font-size: 250%;
+  letter-spacing: 3px;
+  color: rgb(251, 251, 253);
+  text-align: center;
+}
 h2 {
   font-family: 'Bree Serif', serif;
   text-transform: uppercase;
@@ -170,14 +177,14 @@ li a:hover {
 /* Main Statement */
 
 #statement {
-  font-size: 120%;
+  font-size: 150%;
   letter-spacing: 3px;
   color:azure;
   background-color:  rgb(8, 137, 234, 0.68);
-  border-radius: 30px;
-  width: 750px;
-  margin-top: 90px;
-  
+  border-radius: 50px;
+  width: 800px;
+  height: 500px;
+  margin-top: 40px;
   margin-left: 100px;
   }
 
@@ -196,10 +203,15 @@ li a:hover {
     border: 2px solid;
 }*/
 #picture {
-  height: 500px;
-  width: auto;
+  height: 350px;
+  width: 20%;
+  margin-right: 150px;
+  border-radius: 100px;
+  border-style: groove;
+  padding: 0px;
+  float: left;
   background: url(../images/Bikes\ on\ a\ bridge.jpg) no-repeat center center;
-  border-radius: 900px;
+  
 }
 
 
@@ -208,6 +220,9 @@ li a:hover {
   color: #071ff8;
   background-color: rgb(8 137 234 / 40%);
   border-radius: 30px;
+  float: right;
+
+  margin-left: 400px;
   }
 
 /*.description {
