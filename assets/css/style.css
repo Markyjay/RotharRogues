@@ -314,6 +314,7 @@ div.desc {
 
 footer {
   height: 150px;
+  object-position: bottom;
 }
 
 
