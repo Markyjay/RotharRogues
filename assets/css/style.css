@@ -330,9 +330,27 @@ div.desc {
     opacity: 1;
   }
 
+.footer h3 {
+  color: #49494e;
+  font-size: 150%;
+}
+.footer .useful-links {
+  text-align: center;
+  padding-bottom: 25px;
+}
 
-
-
+.footer .footer-about {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.footer-about{
+  float: left;
+  margin-left: 200px;
+}
+.useful-links {
+  float: right;
+  margin-right: 200px;
+}
 /*Gallery page*/
 
 /* Gallery Photos */
