@@ -38,6 +38,10 @@ h2 {
   text-align: center;
 }
 
+#statement p {
+  font-size: 100%;
+}
+
 p {
   font-size: 200%;
 }
@@ -64,7 +68,7 @@ p {
   float: left;
   background: no-repeat center center;
   position: relative;
-  height: 200px;
+  height: 190px;
   width: 200px;
   border-radius: 1000px;
   padding: none;
@@ -241,14 +245,14 @@ li a:hover {
 
 /* About-on-main */
 #about {
-  font-size: 120%;
+  font-size: 100%;
   letter-spacing: 3px;
   background-color: rgb(8 137 234 / 40%);
   border-radius: 30px;
-  width: 1000px;
-  height: 200px;
+  width: 1800px;
+  height: 300px;
   margin-top: 400px;
-  margin-left: 500px;
+  margin-left: 120px;
 }
 
 
@@ -292,30 +296,41 @@ div.desc {
     border: 2px solid;
 }
 */
-.social-networks {
-  text-align: center;
-
-}
-
-.social-networks li {
-  display: inline;
-}
-
-.social-networks i {
-  font-size: 160%;
-  margin: 1%;
-  padding: 5%;
-  color: #3a3a3a;
-  margin-left: 300px;
-}
 
 
 /* Footer */
 
-footer {
-  height: 150px;
+.footer {
+  padding: 40px 0;
   object-position: bottom;
+  background-color: #f16c6b;
 }
+
+.footer .social-networks {
+  text-align: center;
+  padding-bottom: 25px;
+  color: #071ff8;
+}
+
+.footer .social-networks a {
+  font-size: 30px;
+  color: inherit;
+  border: 1px solid #071ff8;
+  width: 45px;
+  height: 45px;
+  line-height: 38px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin: 0 8px;
+  opacity: 0.75;
+  }
+
+  .footer .social-networks a:hover{
+    opacity: 1;
+  }
+
+
 
 
 /*Gallery page*/
