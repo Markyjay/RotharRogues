@@ -73,6 +73,7 @@ p {
   border-radius: 1000px;
   padding: none;
   margin-top: 20px;
+  margin-left: 100px;
 }
 
 #logo img {
@@ -88,7 +89,8 @@ p {
 }*/
 
 #heading {
-  margin-left: 230px;
+  width: 1000px;
+  margin-left: 530px;
   margin-right: 150px;
   background-color: rgba(166, 216, 212, 0.863);
   border-radius: 100px;
@@ -303,6 +305,7 @@ div.desc {
 .footer {
   padding: 40px 0;
   background-color: #f16c6b;
+  border-radius: 50px;
 }
 
 .footer .social-networks {
@@ -472,6 +475,7 @@ div.desc {
   position: absolute;
   left: 15%;
   padding: 30px;
+  text-align: left;
 }
 
 .signup-form h2 {
@@ -484,7 +488,7 @@ div.desc {
 .text-input {
   background: transparent;
   color: #fafafa;
-  width: 100%;
+  width: 95%;
   height: 25px;
   margin: 5px 0 20px;
   border: 1px solid #fafafa;
