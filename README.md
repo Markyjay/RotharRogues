@@ -59,7 +59,7 @@ This site is designed for those who would like to learn more about what mens she
 The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. I believe it to be an invaluable asset to the local community and to men world wide. The aim was to create a similar design to the Love Running project in the course curriculum that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
 
 # Color Scheme
-<img src="/assets/images/pro" alt="Color palette"/>
+<img src="/assets/images/Project 1 Palette.png" alt="Color palette"/>
 The colour scheme I picked myself, I found them appealing to the eyes and relative to the Rothar Rogues logo and jackets they wear. They are consisting of;
 *	A light shade for the subheading in the menu-bar
 *	A shade darker than the above one for the text; 
