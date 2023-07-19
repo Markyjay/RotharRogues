@@ -47,18 +47,19 @@ o	Testing and bugs
 # UX
 
 # User Demographic
-This site is designed for those who would like to learn more about what mens shed groups do and are involved in. It will help those who wish to be involved or know those who would enjoy being involved to gain access to information about the groups event past and future.
+This site is designed for those who would like to learn more about what mens shed groups do and are involved in. It will help those who wish to be involved or know those who would enjoy being involved to gain access to information about the groups events past and future.
 
 # User Goals 
-*	To encourage more people to get involved in community based project that benefit the local people.
+*	To encourage more people to get involved in community based projects that benefit the local people.
 *	To advertise the great things that the group is involved in.
 *	To display and record the groups activities and events.
-*	To bring together a community of people to become more active.
+*	To bring together a community of people to help them become connected and more active.
 
 # Design
-The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. The aim was to create a similar project to the Love Running project in the course program that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
+The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. I believe it to be an invaluable asset to the local community and to men world wide. The aim was to create a similar design to the Love Running project in the course curriculum that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
 
 # Color Scheme
+<img src="/assets/images/pro" alt="Color palette"/>
 The colour scheme I picked myself, I found them appealing to the eyes and relative to the Rothar Rogues logo and jackets they wear. They are consisting of;
 *	A light shade for the subheading in the menu-bar
 *	A shade darker than the above one for the text; 
