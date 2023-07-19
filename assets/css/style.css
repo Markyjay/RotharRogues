@@ -211,8 +211,8 @@ li a:hover {
     border: 2px solid;
 }*/
 #picture {
-  height: 350px;
-  width: 20%;
+  height: 450px;
+  width: 450px;
   margin-right: 150px;
   border-radius: 100px;
   border-style: groove;
@@ -302,7 +302,6 @@ div.desc {
 
 .footer {
   padding: 40px 0;
-  object-position: bottom;
   background-color: #f16c6b;
 }
 
