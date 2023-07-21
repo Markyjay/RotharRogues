@@ -30,24 +30,8 @@ h2 {
 }
 
 
-/*
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(10, minmax(50px, auto));
-    grid-template-rows: repeat(12, minmax(50px, auto)); 
-    max-width: 90%;
-    margin: 0 auto;
-    border: 2px solid;
-}*/
-
 /* Logo */
 
-/*.logo {
-    grid-column: 1 / 2;
-    grid-row: 1 / 2;
-    border: 2px solid;
-    
-}*/
 #logo {
   float: left;
   background: no-repeat center center;
@@ -63,14 +47,6 @@ h2 {
   size: 100%;
 }
 
-
-/* Heading */
-/*.heading {
-    grid-column: 2 / 8;
-    grid-row: 1 / 2;
-    border: 2px solid;    
-}*/
-
 #heading {
   width: 1000px;
   margin-left: 530px;
@@ -78,7 +54,7 @@ h2 {
   background-color: rgba(166, 216, 212, 0.863);
   border-radius: 100px;
   border-style: groove;
- 
+
 }
 
 #heading-text {
@@ -87,8 +63,6 @@ h2 {
   letter-spacing: 10px;
   padding: 0px;
   margin: 0px;
-
-
 }
 
 #sub-heading {
@@ -99,8 +73,7 @@ h2 {
   margin: 0px;
 }
 
-
-/* Nav */
+/* Nav Bar */
 
 #nav {
   font-size: 150%;
@@ -178,7 +151,7 @@ li a:hover {
   padding: 0px;
   float: left;
   margin-left: 200px;
-  }
+}
 
 
 /* Welcome Statement */
@@ -224,7 +197,8 @@ li a:hover {
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev,
+.next {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -238,22 +212,21 @@ li a:hover {
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
+
 .prev {
   margin-left: -400px;
 }
 
-/* Position the "next button" to the right */
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
-/* Caption text */
 .text {
   color: #071ff8;
   font-size: 30px;
@@ -263,10 +236,9 @@ li a:hover {
   width: 100%;
   text-align: center;
   margin-bottom: -40px;
-  
+
 }
 
-/* Number text (1/3 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -275,7 +247,6 @@ li a:hover {
   top: 0;
 }
 
-/* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
   height: 15px;
@@ -287,26 +258,25 @@ li a:hover {
   transition: background-color 0.6s ease;
 }
 
-.active-slide, .dot:hover {
+.active-slide,
+.dot:hover {
   background-color: #717171;
 }
 
-/* Fading animation */
 .fade {
   animation-name: fade;
   animation-duration: 1.5s;
 }
 
-
-
 @keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+  from {
+    opacity: .4
+  }
+
+  to {
+    opacity: 1
+  }
 }
-
-
-
-
 
 /* About Page */
 
@@ -333,24 +303,9 @@ div.desc {
   margin-left: 70px;
 }
 
-/*.about {
-    grid-column: 1 / 11;
-    grid-row: 9 / 10;
-    border: 2px solid;
-}
-*/
-
-/* Social Media */
-
-/*.social-media {
-    grid-column: 1 / 11;
-    grid-row: 10 / 12;
-    border: 2px solid;
-}
-*/
 
 
-/* Footer */
+/* Footer & Social Media */
 
 .footer {
   padding: 40px 0;
@@ -397,26 +352,25 @@ div.desc {
   padding-bottom: 25px;
 }
 
-.footer-about, .useful-links {
-   display: inline-block;
-   
+.footer-about,
+.useful-links {
+  display: inline-block;
+
 }
 
 
 /*Gallery page*/
 
-/* Gallery Photos */
-
 #gallery {
   grid-template-columns: repeat(6, 1fr);
   grid-auto-rows: minmax(150px, auto);
   grid-gap: 10px;
- 
+
   display: grid;
   margin: 0 auto;
   max-width: 1560px;
   max-height: fit-content;
-  
+
 }
 
 #gallery div {
@@ -426,17 +380,10 @@ div.desc {
   border-radius: 50px;
 }
 
-/*
-.gallery__img {
-  width: 100%;
-  height: 50%;
-  object-fit: cover;
-}
-*/
 .gallery__item--1 {
   grid-column: 1 / 3;
   grid-row: 1 / 5;
-  
+
 }
 
 .gallery__item--2 {
@@ -464,36 +411,6 @@ div.desc {
 
 }
 
-/*
-.gallery__item--6 {
-  grid-column-start: 1;
-  grid-column-end: 5;
-  grid-row-start: 6;
-  grid-row-end: 9;
-}
-
-.gallery__item--7 {
-  grid-column-start: 5;
-  grid-column-end: 9;
-  grid-row-start: 6;
-  grid-row-end: 9;
-}
-
-.gallery__item--8 {
-  grid-column-start: 1;
-  grid-column-end: 7;
-  grid-row-start: 9;
-  grid-row-end: 13;
-}
-
-.gallery__item--9 {
-  grid-column-start: 7;
-  grid-column-end: 9;
-  grid-row-start: 6;
-  grid-row-end: 13;
-}
-*/
-
 #photo {
   clear: both;
   line-height: 0;
@@ -506,8 +423,7 @@ div.desc {
 }
 
 
-/*Contact page*/
-/* Form */
+/*Contact page & Form*/
 
 .form-section {
   clear: left;
