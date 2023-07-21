@@ -7,17 +7,8 @@
 body {
   font-family: 'DM Serif Display', serif;
   color: #6B7D7D;
-  /* background-image: url(../images/Bike\ under\ bridge.jpg);  /* The image used */
   background-color: rgb(215, 218, 229);
-  /* Used if the image is unavailable */
-  height: 500px;
-  /* You must set a specified height */
-  background-position: center;
-  /* Center the image */
-  background-repeat: no-repeat;
-  /* Do not repeat the image */
-  background-size: cover;
-  /* Resize the background image to cover the entire container */
+  height: 900px;
   text-align: center;
 }
 
@@ -38,13 +29,6 @@ h2 {
   text-align: center;
 }
 
-#statement p {
-  font-size: 100%;
-}
-
-p {
-  font-size: 200%;
-}
 
 /*
 .grid-container {
@@ -118,12 +102,6 @@ p {
 
 /* Nav */
 
-/*.nav {
-    grid-column: 8 / 11;
-    grid-row: 1 / 2;
-    border: 2px solid;   
-}*/
-
 #nav {
   font-size: 150%;
   letter-spacing: 2px;
@@ -150,23 +128,16 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
 }
 
 /* Main image */
 
-/*.main-image {
-    grid-column: 1 / 8;
-    grid-row: 2 / 6;
-    border: 2px solid;
-}
-*/
 #main-image {
-  height: 650px;
-  width: 40%;
-  margin-right: 150px;
+  height: 800px;
+  width: 800px;
+  margin-right: 250px;
   border-radius: 100px;
   border-style: groove;
   padding: 0px;
@@ -194,51 +165,51 @@ li a:hover {
   width: 800px;
   height: 500px;
   margin-top: 40px;
-  margin-left: 100px;
+  margin-left: 250px;
 }
 
-
-/*.statement {
-    grid-column: 6 / 11;
-    grid-row: 3 / 5;
-    border: 2px solid;
-}
-*/
 /* Relevent Picture */
 
-/*.picture {
-    grid-column: 1 / 4;
-    grid-row: 6 / 9;
-    border: 2px solid;
-}*/
 #picture {
-  height: 450px;
-  width: 350px;
+  height: 800px;
+  width: 800px;
   border-radius: 100px;
   border-style: groove;
   padding: 0px;
   float: left;
+  margin-left: 200px;
   }
 
 
-/* welcome Statement */
+/* Welcome Statement */
+
 #welcome {
-  color: #071ff8;
-  background-color: rgb(8 137 234 / 40%);
+  font-size: 150%;
+  letter-spacing: 3px;
+  color: azure;
+  background-color: rgb(8, 137, 234, 0.68);
   border-radius: 30px;
   float: right;
   width: 800px;
-  height: auto;
+  height: 500px;
   margin-right: 350px;
   margin-top: 100px
 }
 
-/*.description {
-    grid-column: 4 / 11;
-    grid-row: 6 / 9;
-    border: 2px solid;
+/* About-on-main */
+
+#about {
+  font-size: 150%;
+  letter-spacing: 3px;
+  color: azure;
+  background-color: rgb(8, 137, 234, 0.68);
+  border-radius: 30px;
+  width: 1800px;
+  height: 300px;
+  margin-top: 900px;
+  margin-left: 200px;
 }
-*/
+
 
 /* Slideshow container */
 .slideshow-container {
@@ -335,18 +306,6 @@ li a:hover {
 
 
 
-
-/* About-on-main */
-#about {
-  font-size: 100%;
-  letter-spacing: 3px;
-  background-color: rgb(8 137 234 / 40%);
-  border-radius: 30px;
-  width: 1800px;
-  height: 300px;
-  margin-top: 400px;
-  margin-left: 120px;
-}
 
 
 /* About Page */
