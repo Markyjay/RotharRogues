@@ -29,6 +29,9 @@ h2 {
   text-align: center;
 }
 
+h4 {
+  font-size: 200%;
+}
 
 /* Logo */
 
@@ -48,7 +51,7 @@ h2 {
 }
 
 #heading {
-  width: 1000px;
+  width: 50%px;
   margin-left: 530px;
   margin-right: 150px;
   background-color: rgba(166, 216, 212, 0.863);
@@ -280,27 +283,22 @@ li a:hover {
 
 /* About Page */
 
-div.photo {
-  width: 180px;
-  margin-left: 700px;
+.photo {
+  border-radius: 50px;
+  width: 600px;
+  height: 600px;
 }
 
-div.photo:hover {
-  color: #071ff8;
-}
-
-div.photo img {
-  width: 300%;
-  height: auto;
-
+.desc:hover {
+  color: #b9cdda;
 }
 
 div.desc {
-  width: 400px;
+  width: 600px;
   padding: 15px;
-  font-size: 200%;
+  font-size: 150%;
   text-align: center;
-  margin-left: 70px;
+  margin-left: 580px;
 }
 
 
@@ -309,7 +307,7 @@ div.desc {
 
 .footer {
   padding: 40px 0;
-  background-color: #f16c6b;
+  background-color: #a6d8d4;
   border-radius: 50px;
 }
 
