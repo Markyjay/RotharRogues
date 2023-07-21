@@ -28,17 +28,17 @@ A live version of the site can be found here:
 *	Features
 *	Header and Logo
 *	Navigation Bar
-* Main Image
-* Welcome Section
-* About Page
-* Events Section
-* Gallery
+*   Main Image
+*   Welcome Section
+*   About Page
+*   Events Section
+*   Gallery
 *	Footer
 *	Contact Page
-* Technologies Used
-* Testing
-o	Validator testing
-o	Testing and bugs
+*   Technologies Used
+*   Testing
+* *	Validator testing
+* *	Testing and bugs
 *	Deployment
 *	Media Sources
 *	Other Helpful Sources
@@ -59,7 +59,10 @@ This site is designed for those who would like to learn more about what mens she
 The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. I believe it to be an invaluable asset to the local community and to men world wide. The aim was to create a similar design to the Love Running project in the course curriculum that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
 
 # Color Scheme
+<div>
 <img src="/assets/images/Project 1 Palette.png" alt="Color palette"/>
+</div>
+
 The colour scheme I picked myself, I found them appealing to the eyes and relative to the Rothar Rogues logo and jackets they wear. They are consisting of;
 *	A light shade for the subheading in the menu-bar
 *	A shade darker than the above one for the text; 
@@ -68,9 +71,9 @@ The colour scheme I picked myself, I found them appealing to the eyes and relati
 # Topography
 *	The fonts used for this project were from https://fonts.google.com/
 *	Icons for the social media links from https://fontawesome.com/
-*	The fonts used for the headings: 
-*	The fonts used for body: 
-*	The fonts used for the heading "Chrononlogical Order" were Cursive and 'parisienne'.
+*	The fonts used for the headings: font-family: 'Bree Serif', serif;
+*	The fonts used for body: font-family: 'DM Serif Display', serif;
+
 
 # Images
 Images are a collection of pictures from the facebook page of the bulfin heritage cycle rally and the Instagram page of pedal vintage Durrow as well as other photos collected from the local whatsapp group. The purpose of the website is to give a friendly look and express quality. Images have been sized in order to match design and consistency.
@@ -95,6 +98,8 @@ Cut out of the logo and header
 >>>>
 
 Cut out of the navigation bar
+
+The navigation bar use the color 
 
 # Main Image
 >>>>>>

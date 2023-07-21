@@ -51,17 +51,17 @@ h4 {
 }
 
 #heading {
-  width: 50%px;
-  margin-left: 530px;
+  width: 70%;
+  margin-left: 330px;
   margin-right: 150px;
   background-color: rgba(166, 216, 212, 0.863);
-  border-radius: 100px;
+  border-radius: 600px;
   border-style: groove;
 
 }
 
 #heading-text {
-  color: rgb(3, 94, 199);
+  color: #6b7d7d;
   font-size: 400%;
   letter-spacing: 10px;
   padding: 0px;
@@ -69,7 +69,7 @@ h4 {
 }
 
 #sub-heading {
-  color: rgb(3, 94, 199);
+  color: #6b7d7d;
   font-size: 200%;
   letter-spacing: 10px;
   padding: 0px;
@@ -88,7 +88,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(8, 137, 234, 0.68);
+  background-color: #8eaf9d;
   border-radius: 40px;
 }
 
@@ -111,8 +111,8 @@ li a:hover {
 /* Main image */
 
 #main-image {
-  height: 800px;
-  width: 800px;
+  height: 600px;
+  width: 600px;
   margin-right: 250px;
   border-radius: 100px;
   border-style: groove;
@@ -138,17 +138,17 @@ li a:hover {
   color: azure;
   background-color: rgb(8, 137, 234, 0.68);
   border-radius: 50px;
-  width: 800px;
+  width: 1000px;
   height: 500px;
   margin-top: 40px;
-  margin-left: 250px;
+  margin-left: 200px;
 }
 
 /* Relevent Picture */
 
 #picture {
-  height: 800px;
-  width: 800px;
+  height: 600px;
+  width: 600px;
   border-radius: 100px;
   border-style: groove;
   padding: 0px;
@@ -164,12 +164,11 @@ li a:hover {
   letter-spacing: 3px;
   color: azure;
   background-color: rgb(8, 137, 234, 0.68);
-  border-radius: 30px;
-  float: right;
-  width: 800px;
+  border-radius: 60px;
+  width: 900px;
   height: 500px;
-  margin-right: 350px;
-  margin-top: 100px
+  margin-left: 700px;
+  margin-top: 20px
 }
 
 /* About-on-main */
@@ -180,10 +179,10 @@ li a:hover {
   color: azure;
   background-color: rgb(8, 137, 234, 0.68);
   border-radius: 30px;
-  width: 1800px;
+  width: 1600px;
   height: 300px;
-  margin-top: 900px;
-  margin-left: 200px;
+  margin-top: 150px;
+  margin-left: 100px;
 }
 
 
