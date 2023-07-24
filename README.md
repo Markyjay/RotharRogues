@@ -88,7 +88,7 @@ Images are a collection of pictures from the facebook page of the bulfin heritag
 *	Contact page
 
 ## Header and Logo
-<img src="/assets/images/Header & Logo.jpg" alt="Header & Logo"/>
+<img src="/assets/images/headerandlogo.jpg" alt="Header & Logo"/>
 This header consists of a logo designed by myself on Canva.com using a vintage bike template and old style text. The logo is placed to the left on the header and is also an anchor link to the Home page. 
 The header contains the name of the group and their motto. it also anchors to the main index page and the style of circular edges was added to portray the running theme of wheels throughout the website.
 
