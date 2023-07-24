@@ -90,8 +90,9 @@ Images are a collection of pictures from the facebook page of the bulfin heritag
 *	Contact page
 
 # Header and Logo
-This header consists of a logo designed by myself on a Canva using a vintage bike template and old style text. The logo is placed to the left on the header. The navigation links for the four pages are aligned to the left of the header.
-The logo is also an anchor link to the Home page.
+This header consists of a logo designed by myself on Canva.com using a vintage bike template and old style text. The logo is placed to the left on the header and is also an anchor link to the Home page. 
+The header contains the name of the group and their motto. it also anchors to the main index page and the style of circular edges was added to portray the running theme of wheels throughout the website.
+
 Cut out of the logo and header
 
 # Navigation Bar
