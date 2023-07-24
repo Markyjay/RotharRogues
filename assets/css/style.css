@@ -113,7 +113,7 @@ li a:hover {
 #main-image {
   height: 600px;
   width: 600px;
-  margin-right: 250px;
+  margin-right: 200px;
   border-radius: 100px;
   border-style: groove;
   padding: 0px;
@@ -176,13 +176,16 @@ li a:hover {
 #about {
   font-size: 150%;
   letter-spacing: 3px;
-  color: azure;
   background-color: rgb(8, 137, 234, 0.68);
   border-radius: 30px;
   width: 1600px;
   height: 300px;
   margin-top: 150px;
   margin-left: 100px;
+}
+
+#about p {
+  color:#f2f2f2;
 }
 
 
@@ -284,23 +287,53 @@ li a:hover {
 
 .photo {
   border-radius: 50px;
-  width: 600px;
-  height: 600px;
+  
 }
 
 .desc:hover {
-  color: #b9cdda;
+  color:#49494e
 }
 
 div.desc {
   width: 600px;
   padding: 15px;
-  font-size: 150%;
+  font-size: 80%;
   text-align: center;
-  margin-left: 580px;
+  margin-left: 600px;
 }
 
+/* Events Section*/
 
+.events-heading {
+text-align: center;
+font-size: 300%;
+color: #071ff8;
+}
+
+#events {
+  background-color: #8eaf9d;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+#events div {
+  color: #fafafa;
+  background-color: rgba(0, 0, 0, .6);
+  width: 50%;
+  height: 500px;
+  float: left;
+  padding: 30px 0 0 10px;
+  text-align: center;
+  border: 2px solid white;
+  box-sizing: border-box;
+}
+
+#events h2 {
+  color: #fafafa;
+}
 
 /* Footer & Social Media */
 
