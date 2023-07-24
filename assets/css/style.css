@@ -135,13 +135,22 @@ li a:hover {
 #statement {
   font-size: 150%;
   letter-spacing: 3px;
-  color: azure;
-  background-color: rgb(8, 137, 234, 0.68);
+  background-color: #b9cdda;
   border-radius: 50px;
   width: 1000px;
   height: 500px;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-left: 200px;
+}
+
+#statement h1 {
+  font-size: 180%;
+  color: #6b7d7d;
+}
+
+#statement p {
+  font-size: 110%;
+  color: #6b7d7d;
 }
 
 /* Relevent Picture */
@@ -160,23 +169,27 @@ li a:hover {
 /* Welcome Statement */
 
 #welcome {
-  font-size: 150%;
+  font-size: 100%;
   letter-spacing: 3px;
-  color: azure;
   background-color: rgb(8, 137, 234, 0.68);
   border-radius: 60px;
   width: 900px;
   height: 500px;
   margin-left: 700px;
-  margin-top: 20px
-}
+  margin-top: 20px;
+  }
+
+  #welcome p {
+    font-size: 150%;
+    color: #f2f2f2;
+  }
 
 /* About-on-main */
 
 #about {
   font-size: 150%;
   letter-spacing: 3px;
-  background-color: rgb(8, 137, 234, 0.68);
+  background-color: #8eaf9d;
   border-radius: 30px;
   width: 1600px;
   height: 300px;
@@ -186,6 +199,10 @@ li a:hover {
 
 #about p {
   color:#f2f2f2;
+}
+
+#about p:hover {
+  color: #a6d8d4;
 }
 
 
@@ -210,7 +227,7 @@ li a:hover {
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  color: #071ff8;
+  color: #6b7d7d;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -233,7 +250,7 @@ li a:hover {
 }
 
 .text {
-  color: #071ff8;
+  color: #6b7d7d;
   font-size: 30px;
   padding: 8px 12px;
   position: absolute;
@@ -380,11 +397,13 @@ color: #49494e;
 .footer .useful-links {
   text-align: center;
   padding-bottom: 25px;
+  margin-right: 120px;
 }
 
 .footer .footer-about {
   text-align: center;
   padding-bottom: 25px;
+  margin-left: 120px;
 }
 
 .footer-about,
@@ -409,7 +428,7 @@ color: #49494e;
 }
 
 #gallery div {
-  background: #f16c6b;
+  background: #a6d8d4;
   padding: 30px;
   color: #fafafa;
   border-radius: 50px;
@@ -441,6 +460,7 @@ color: #49494e;
 }
 
 .comment {
+  color: #49494e;
   font-family: inherit;
   font-size: 150%;
 }
