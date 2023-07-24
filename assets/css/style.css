@@ -287,7 +287,7 @@ li a:hover {
 
 .photo {
   border-radius: 50px;
-  
+  border-style: groove;  
 }
 
 .desc:hover {
@@ -304,10 +304,9 @@ div.desc {
 
 /* Events Section*/
 
-.events-heading {
-text-align: center;
+#events-heading {
 font-size: 300%;
-color: #071ff8;
+color: #49494e;
 }
 
 #events {
@@ -322,17 +321,23 @@ color: #071ff8;
 #events div {
   color: #fafafa;
   background-color: rgba(0, 0, 0, .6);
-  width: 50%;
-  height: 500px;
+  width: 33.3%;
+  height: 450px;
   float: left;
   padding: 30px 0 0 10px;
   text-align: center;
   border: 2px solid white;
+  border-radius: 20px;
   box-sizing: border-box;
 }
 
 #events h2 {
   color: #fafafa;
+}
+
+#events img {
+  border-radius: 20px;
+  border-style: groove;
 }
 
 /* Footer & Social Media */
