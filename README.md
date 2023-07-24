@@ -44,21 +44,21 @@ A live version of the site can be found here:
 - [Acknowledgements](#acknowledgements "Acknowledgements")
 
 
-# UX
+## UX
 
-# User Demographic
+## User Demographic
 This site is designed for those who would like to learn more about what mens shed groups do and are involved in. It will help those who wish to be involved or know those who would enjoy being involved to gain access to information about the groups events past and future.
 
-# User Goals 
+## User Goals 
 *	To encourage more people to get involved in community based projects that benefit the local people.
 *	To advertise the great things that the group is involved in.
 *	To display and record the groups activities and events.
 *	To bring together a community of people to help them become connected and more active.
 
-# Design
+## Design
 The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. I believe it to be an invaluable asset to the local community and to men world wide. The aim was to create a similar design to the Love Running project in the course curriculum that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
 
-# Color Scheme
+## Color Scheme
 <img src="/assets/images/Project 1 Palette.png" alt="Color palette"/>
 
 The colour scheme I picked myself, I found them appealing to the eyes and relative to the Rothar Rogues logo and jackets they wear. They are consisting of;
@@ -66,17 +66,17 @@ The colour scheme I picked myself, I found them appealing to the eyes and relati
 *	A shade darker than the above one for the text; 
 *	A dark green shade for the headings;
 
-# Topography
+## Topography
 *	The fonts used for this project were from https://fonts.google.com/
 *	Icons for the social media links from https://fontawesome.com/
 *	The fonts used for the headings: font-family: 'Bree Serif', serif;
 *	The fonts used for body: font-family: 'DM Serif Display', serif;
 
 
-# Images
+## Images
 Images are a collection of pictures from the facebook page of the bulfin heritage cycle rally and the Instagram page of pedal vintage Durrow as well as other photos collected from the local whatsapp group. The purpose of the website is to give a friendly look and express quality. Images have been sized in order to match design and consistency.
 
-# Features
+## Features
 *	Header and Logo
 *	Navigation Bar
 *	Main Image
@@ -87,49 +87,49 @@ Images are a collection of pictures from the facebook page of the bulfin heritag
 *	Footer
 *	Contact page
 
-# Header and Logo
-<img src="/assets/images/Header\&\Logo.jpg" alt="Header & Logo"/>
+## Header and Logo
+<img src="/assets/images/Header & Logo.jpg" alt="Header & Logo"/>
 This header consists of a logo designed by myself on Canva.com using a vintage bike template and old style text. The logo is placed to the left on the header and is also an anchor link to the Home page. 
 The header contains the name of the group and their motto. it also anchors to the main index page and the style of circular edges was added to portray the running theme of wheels throughout the website.
 
 
-# Navigation Bar
-<img src="/assets/images/navigation\bar.jpg" alt="Navigation Bar"/>
+## Navigation Bar
+<img src="/assets/images/Navigation Bar.jpg" alt="Navigation Bar"/>
 
 The navigation bar use the color 
 
-# Main Image
-<img src="/assets/images/main\image.jpg" alt="Main image"/>
+## Main Image
+<img src="/assets/images/Main image.jpg" alt="Main image"/>
 
 Picture
 
-# Welcome section
+## Welcome section
 >>>>>>>
 
 Picture with paragraph and comment
 
-# About page
+## About page
 <img src="/assets/images/Carousel.jpg" alt="Carousel"/>
 
-# Events Section
-<img src="/assets/images/events\section.jpg" alt="Events Section"/>
+## Events Section
+<img src="/assets/images/Events Section.jpg" alt="Events Section"/>
 
-# Gallary
+## Gallary
 Mosaic cssgrid …..
-# Footer
-<img src="/assets/images/footer.jpg" alt="Footer"/>
+## Footer
+<img src="/assets/images/Footer.jpg" alt="Footer"/>
 Social media and various links to supporting companies
 
-# Contact Page 
-<img src="/assets/images/Contact\page.jpg" alt="Contact"/>
+## Contact Page 
+<img src="/assets/images/Contact page.jpg" alt="Contact"/>
 To get regular updates and reviews of upcoming events. 
 
 
-# Technologies Used
+## Technologies Used
 *	HTML5
 *	CSS3
 
-# Testing
+## Testing
 *	HTML5
 Validator testing
 W3C HTML validator testing
@@ -145,12 +145,12 @@ Picture of results
 
 
 
-# Lighthouse testing
+## Lighthouse testing
 
 Testing and bugs
 
 
-# Deployment
+## Deployment
 
 The development platform used for this project was GitPod. To track the development stage and handle version control regular commits and pushes to GitHub has been conducted. The GitPod environment was created using a template provided by Code Institute.
 The live version of the project is deployed at GitHub pages.
@@ -165,13 +165,13 @@ The procedure for deployment followed the "Creating your site" steps provided in
 The live deployed link can be found here :
 
 
-# Media Sources
+## Media Sources
 
 
-# Other Helpful sources
+## Other Sources
 
 
 
-# Acknowledgements
+## Acknowledgements
 
 
