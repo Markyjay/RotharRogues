@@ -18,31 +18,31 @@ The languages used to create the website are HTML5 and CSS3.
 A live version of the site can be found here: 
 
 # Table of contents
-#	UX
-*	User Demographic
-*	User Goals
-*	Design
-*	Colour Scheme
-*	Typography
-*	Images
-*	Features
-*	Header and Logo
-*	Navigation Bar
-*   Main Image
-*   Welcome Section
-*   About Page
-*   Events Section
-*   Gallery
-*	Footer
-*	Contact Page
-*   Technologies Used
-*   Testing
-* *	Validator testing
-* *	Testing and bugs
-*	Deployment
-*	Media Sources
-*	Other Helpful Sources
-*	Acknowledgements
+- [UX](#ux "UX")
+  - [User Demographic](#user-demographic "User Demographic")
+  - [User Goals](#user-goals "User Goals")
+  - [Design](#design "Design")
+  - [Colour Scheme](#colour-scheme "Colour Scheme")
+  - [Typography](#typography "Typography")
+  - [Images](#images "Images")
+- [Features](#features "Features")
+  - [Header and Logo](#header-and-logo "Header and Logo")
+  - [Navigation Bar](#navigation-bar "Navigation Bar")
+  - [Main Image](#Main-image "Main Image")
+  - [Welcome Section](#welcome "Welcome Section")
+  - [About Page](#about "About Page")
+  - [Events](#events "Events")
+  - [Gallery](#gallery "Gallery")
+  - [Footer](#footer "Footer")
+- [Technologies Used](#technologies-used "Technologies Used")
+- [Testing](#testing "Testing")
+  - [Validator testing](#validator-testing "Validator Testing")
+  - [Testing and bugs](#testing-and-bugs "Testing and bugs")
+- [Deployment](#deployment "Deployment")
+- [Media](#media "Media")
+- [Other Sources](#other-sources "Other Sources")
+- [Acknowledgements](#acknowledgements "Acknowledgements")
+
 
 # UX
 
@@ -59,9 +59,7 @@ This site is designed for those who would like to learn more about what mens she
 The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. I believe it to be an invaluable asset to the local community and to men world wide. The aim was to create a similar design to the Love Running project in the course curriculum that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
 
 # Color Scheme
-<div>
 <img src="/assets/images/Project 1 Palette.png" alt="Color palette"/>
-</div>
 
 The colour scheme I picked myself, I found them appealing to the eyes and relative to the Rothar Rogues logo and jackets they wear. They are consisting of;
 *	A light shade for the subheading in the menu-bar
@@ -90,20 +88,18 @@ Images are a collection of pictures from the facebook page of the bulfin heritag
 *	Contact page
 
 # Header and Logo
+<img src="/assets/images/Header\&\Logo.jpg" alt="Header & Logo"/>
 This header consists of a logo designed by myself on Canva.com using a vintage bike template and old style text. The logo is placed to the left on the header and is also an anchor link to the Home page. 
 The header contains the name of the group and their motto. it also anchors to the main index page and the style of circular edges was added to portray the running theme of wheels throughout the website.
 
-Cut out of the logo and header
 
 # Navigation Bar
->>>>
-
-Cut out of the navigation bar
+<img src="/assets/images/navigation\bar.jpg" alt="Navigation Bar"/>
 
 The navigation bar use the color 
 
 # Main Image
->>>>>>
+<img src="/assets/images/main\image.jpg" alt="Main image"/>
 
 Picture
 
@@ -113,15 +109,19 @@ Picture
 Picture with paragraph and comment
 
 # About page
->>>>>
+<img src="/assets/images/Carousel.jpg" alt="Carousel"/>
+
 # Events Section
->>>>>
+<img src="/assets/images/events\section.jpg" alt="Events Section"/>
+
 # Gallary
 Mosaic cssgrid …..
 # Footer
+<img src="/assets/images/footer.jpg" alt="Footer"/>
 Social media and various links to supporting companies
 
 # Contact Page 
+<img src="/assets/images/Contact\page.jpg" alt="Contact"/>
 To get regular updates and reviews of upcoming events. 
 
 
