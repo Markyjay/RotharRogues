@@ -56,10 +56,10 @@ This site is designed for those who would like to learn more about what mens she
 *	To bring together a community of people to help them become connected and more active.
 
 ## Design
-The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. I believe it to be an invaluable asset to the local community and to men world wide. The aim was to create a similar design to the Love Running project in the course curriculum that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms.
+The design was inspired by the fact that my father is involved in the group and I noticed that they had very little if any advertisement about their events and activities. I believe it to be an invaluable asset to the local community and to men world wide. The aim was to create a similar design to the Love Running project in the course curriculum that incorporated many of the skills shown and taught in the program. The website has four pages all links included at the top in the header for each HTML page and at the bottom in the footer containing links to social media platforms. I used  to achieve an overall perspective of how the site should look then incorporated various ideas and changes as the project took shape.
 
 ## Color Scheme
-<img src="/assets/images/Project 1 Palette.png" alt="Color palette"/>
+<img src="/documentation/project1palette.png" alt="Color palette"/>
 
 The colour scheme I picked myself, I found them appealing to the eyes and relative to the Rothar Rogues logo and jackets they wear. They are consisting of;
 *	A light shade for the subheading in the menu-bar
@@ -71,7 +71,6 @@ The colour scheme I picked myself, I found them appealing to the eyes and relati
 *	Icons for the social media links from https://fontawesome.com/
 *	The fonts used for the headings: font-family: 'Bree Serif', serif;
 *	The fonts used for body: font-family: 'DM Serif Display', serif;
-
 
 ## Images
 Images are a collection of pictures from the facebook page of the bulfin heritage cycle rally and the Instagram page of pedal vintage Durrow as well as other photos collected from the local whatsapp group. The purpose of the website is to give a friendly look and express quality. Images have been sized in order to match design and consistency.
@@ -88,20 +87,20 @@ Images are a collection of pictures from the facebook page of the bulfin heritag
 *	Contact page
 
 ## Header and Logo
-<img src="/assets/images/headerandlogo.jpg" alt="Header & Logo"/>
-This header consists of a logo designed by myself on Canva.com using a vintage bike template and old style text. The logo is placed to the left on the header and is also an anchor link to the Home page. 
+<img src="/documentation/headerandlogo.jpg" alt="Header & Logo"/>
+This header consists of a logo designed by myself on https://www.canva.com/ using a vintage bike template and old style text. The logo is placed to the left on the header and is also an anchor link to the Home page. 
 The header contains the name of the group and their motto. it also anchors to the main index page and the style of circular edges was added to portray the running theme of wheels throughout the website.
 
 
 ## Navigation Bar
-<img src="/assets/images/Navigation Bar.jpg" alt="Navigation Bar"/>
+<img src="/documentation/navigationbar.jpg" alt="Navigation Bar"/>
 
 The navigation bar use the color 
 
 ## Main Image
-<img src="/assets/images/Main image.jpg" alt="Main image"/>
+<img src="/documentation/mainimage.jpg" alt="Main image"/>
 
-Picture
+
 
 ## Welcome section
 >>>>>>>
@@ -109,25 +108,26 @@ Picture
 Picture with paragraph and comment
 
 ## About page
-<img src="/assets/images/Carousel.jpg" alt="Carousel"/>
+<img src="/documentation/carousel.jpg" alt="Carousel"/>
 
 ## Events Section
-<img src="/assets/images/Events Section.jpg" alt="Events Section"/>
+<img src="/documentation/eventssection.jpg" alt="Events Section"/>
 
 ## Gallary
 Mosaic cssgrid …..
 ## Footer
-<img src="/assets/images/Footer.jpg" alt="Footer"/>
+<img src="/documentation/footer.jpg" alt="Footer"/>
 Social media and various links to supporting companies
 
 ## Contact Page 
-<img src="/assets/images/Contact page.jpg" alt="Contact"/>
+<img src="/documentation/contactpage.jpg" alt="Contact"/>
 To get regular updates and reviews of upcoming events. 
 
 
 ## Technologies Used
 *	HTML5
 *	CSS3
+* JavaScript
 
 ## Testing
 *	HTML5
@@ -167,10 +167,19 @@ The live deployed link can be found here :
 
 ## Media Sources
 
+https://codepen.io/waffleknit/pen/KJEpLp
+https://www.youtube.com/ 
+https://www.w3schools.com/
+https://coolors.co/
+
+https://cdnjs.com/libraries/font-awesome
+https://ui.dev/amiresponsive
+https://www.canva.com/
+
 
 ## Other Sources
 
-
+https://developer.mozilla.org/
 
 ## Acknowledgements
 

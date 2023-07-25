@@ -43,15 +43,12 @@ h4 {
   background: no-repeat center center;
   height: 190px;
   width: 200px;
-  border-radius: 1000px;
   padding: none;
   margin-top: 20px;
   margin-left: 100px;
 }
 
-#logo img {
-  size: 100%;
-}
+
 
 #heading {
   width: 70%;
@@ -117,24 +114,15 @@ li a:hover {
 /* Main image */
 
 #main-image {
-  height: 600px;
-  width: 600px;
-  margin-right: 200px;
+  height: 35vw;
+  width: auto;
+  margin-right: 100px;
   border-radius: 100px;
   border-style: groove;
   padding: 0px;
   float: right;
-
 }
 
-#about-heading {
-  font-family: inherit;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  color: rgb(107, 125, 125);
-  text-align: center;
-  font-size: 400%;
-}
 
 /* Main Statement */
 
@@ -142,11 +130,11 @@ li a:hover {
   font-size: 150%;
   letter-spacing: 3px;
   background-color: #b9cdda;
-  border-radius: 50px;
-  width: 1000px;
-  height: 500px;
-  margin-top: 20px;
-  margin-left: 200px;
+  border-radius: 100px;
+  width: 60vw;
+  height: auto;
+  margin-left: 20px;
+  margin-top: 2vw;
 }
 
 #statement h1 {
@@ -162,13 +150,13 @@ li a:hover {
 /* Relevent Picture */
 
 #picture {
-  height: 600px;
-  width: 600px;
+  height: auto;
+  width: 30vw;
   border-radius: 100px;
   border-style: groove;
   padding: 0px;
   float: left;
-  margin-left: 200px;
+  margin-top: 5vw;
 }
 
 
@@ -179,10 +167,12 @@ li a:hover {
   letter-spacing: 3px;
   background-color: rgb(8, 137, 234, 0.68);
   border-radius: 60px;
-  width: 900px;
-  height: 500px;
-  margin-left: 700px;
-  margin-top: 20px;
+  width: 70vw;
+  height: auto;
+  margin-left: 25vw;
+  margin-top: 5vw;
+  margin-right: 10vw;
+  
   }
 
   #welcome p {
@@ -197,8 +187,9 @@ li a:hover {
   letter-spacing: 3px;
   background-color: #8eaf9d;
   border-radius: 30px;
-  width: 1600px;
-  height: 300px;
+  width: 80vw;
+  height: auto;
+  align-self: center;
   margin-top: 150px;
   margin-left: 100px;
 }
@@ -559,14 +550,14 @@ color: #49494e;
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #071ff8;
+  background-color: #f16c6b;
   color: #fafafa;
   display: block;
 }
 
 .submit-button:hover {
   background-color: #fafafa;
-  color: #071ff8;
+  color: #f16c6b;
 }
 
 
@@ -576,6 +567,10 @@ color: #49494e;
   .responsive {
     width: 49.99999%;
     margin: 6px 0;
+  }
+
+  #logo img {
+    size: 20%;
   }
 }
 
