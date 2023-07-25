@@ -41,19 +41,20 @@ h4 {
 #logo {
   float: left;
   background: no-repeat center center;
-  height: 190px;
-  width: 200px;
+  width: 170px;
+  height: auto;
   padding: none;
-  margin-top: 20px;
-  margin-left: 100px;
+  margin-top: 1.5vw;
+  margin-left: 5vw;
 }
 
 
 
 #heading {
-  width: 70%;
-  margin-left: 330px;
-  margin-right: 150px;
+  width: 70vw;
+  height: auto;
+  margin-left: 20vw;
+  margin-right: 10vw;
   background-color: rgba(166, 216, 212, 0.863);
   border-radius: 600px;
   border-style: groove;
@@ -65,16 +66,16 @@ h4 {
 
 #heading-text {
   color: #6b7d7d;
-  font-size: 400%;
-  letter-spacing: 10px;
+  font-size: auto;
+  letter-spacing: 35px;
   padding: 0px;
   margin: 0px;
 }
 
 #sub-heading {
   color: #6b7d7d;
-  font-size: 200%;
-  letter-spacing: 10px;
+  font-size: auto;
+  letter-spacing: 15px;
   padding: 0px;
   margin: 0px;
 }
