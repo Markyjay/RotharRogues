@@ -60,7 +60,10 @@ h4 {
   background-color: rgba(166, 216, 212, 0.863);
   border-radius: 600px;
   border-style: groove;
-
+ 
+}
+#heading a {
+  text-decoration: none;
 }
 
 #heading-text {
@@ -200,6 +203,10 @@ li a:hover {
   margin-left: 100px;
 }
 
+#about a {
+  text-decoration:none;
+}
+
 #about p {
   color:#f2f2f2;
 }
@@ -217,8 +224,9 @@ li a:hover {
 }
 
 /* Hide the images by default */
-.mySlides {
-  display: none;
+.mySlides img {
+  width: 60%;
+  border-style: groove;
 }
 
 
@@ -240,12 +248,13 @@ li a:hover {
 }
 
 .prev {
-  margin-left: -400px;
+  margin-left: -350px;
 }
 
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
+  margin-right: 50px;
 }
 
 .prev:hover,
@@ -257,7 +266,6 @@ li a:hover {
   color: #6b7d7d;
   font-size: 30px;
   padding: 8px 12px;
-  position: absolute;
   bottom: 8px;
   width: 100%;
   text-align: center;
@@ -412,9 +420,37 @@ color: #49494e;
 .footer-about,
 .useful-links {
   display: inline-block;
+}
+/* Footer link styling */
 
+#hi {
+  width: 50px; 
+  height: 50px;
 }
 
+#nt {
+  width: 80px; 
+  height: 60px;
+}
+
+#dot {
+  width: 110px; 
+  height: 40px;
+}
+
+#lcc {
+  width: 170px; 
+  height: 60px;
+}
+
+#ci {
+  width: 150px; 
+  height: 50px;
+}
+#rr{
+  width: 60px; 
+  height: 60px;
+}
 
 /*Gallery page*/
 
