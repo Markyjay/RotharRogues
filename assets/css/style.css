@@ -24,20 +24,15 @@ h1 {
   text-align: center;
 }
 
-
-
 /* Logo */
 
 #logo {
   float: left;
   background: no-repeat center center;
-  width: 170px;
+  width: 10vw;
   height: auto;
-  padding: none;
-  margin-top: 1.5vw;
-  margin-left: 5vw;
+  margin: 10px 0px 0px 50px;
 }
-
 
 #heading {
   width: 70vw;
@@ -519,7 +514,8 @@ color: #49494e;
 .signup-form h2 {
   color: #fafafa;
   margin-bottom: 20px;
-  font-size: 200%;
+  font-size: 250%;
+  text-align: center;
 
 }
 
@@ -556,22 +552,31 @@ color: #49494e;
 
 /* Media quieres */
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 1200px) {
   .responsive {
     width: 49.99999%;
     margin: 6px 0;
   }
 
-  #logo img {
-    size: 20%;
-  }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1024px) {
   .responsive {
     width: 100%;
   }
 }
+@media only screen and (max-width: 768px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
 
 .clearfix:after {
   content: "";
