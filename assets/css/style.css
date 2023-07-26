@@ -352,6 +352,7 @@ main p {
 #events img {
   border-radius: 20px;
   border-style: groove;
+  width: 10vw;
 }
 
 /* Footer & Social Media */
