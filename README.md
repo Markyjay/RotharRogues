@@ -155,9 +155,6 @@ Picture of results
 
 
 
-
-
-
 ## Lighthouse testing
 
 Testing and bugs
