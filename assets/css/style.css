@@ -27,9 +27,7 @@ h1 {
 #logo {
   float: left;
   background: no-repeat center center;
-  width: 160px;
-  height: auto;
-  margin: 10px 0px 0px 50px;
+
 }
 
 #heading {
@@ -70,7 +68,6 @@ h1 {
 
 
 .nav a {
-  float: left;
   text-align: center;
   color: white;
   padding: 14px 16px;
@@ -84,7 +81,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #8eaf9d;
-  border-radius: 40px;
+  border-radius: 100px;
 }
 
 li {
@@ -623,7 +620,7 @@ main p {
   #logo {
     width: 140px;
     height: auto;
-    margin: 30px 0px 0px 50px;
+    margin: 30px 0px 0px 40px;
   }
 
   #heading-text {
@@ -653,7 +650,7 @@ main p {
   #logo {
     width: 140px;
     height: auto;
-    margin: 30px 0px 0px 50px;
+    margin: 30px 0px 0px 30px;
   }
 
   #heading-text {
@@ -676,14 +673,18 @@ main p {
 
   /* Main*/
 
-  main h2 {
+ #statement h2 {
     font-size: 250%;
   }
 
-  main p {
+  #statement p {
     font-size: 150%;
   }
-
+  
+  #main-image {
+     margin-right: 0px;
+     }
+  
   /* About Page */
 
   /* Paragraphs */
@@ -701,7 +702,7 @@ main p {
   #logo {
     width: 120px;
     height: auto;
-    margin: 25px 0px 0px 50px;
+    margin: 25px 0px 0px 20px;
   }
 
   #heading-text {
@@ -715,7 +716,10 @@ main p {
 
   /* Main*/
 
-
+  #main-image {
+    margin-right: 0px;
+   }
+  
 
   /* Footer */
   .footer .useful-links {
@@ -751,54 +755,61 @@ main p {
 
   }
 
-  main h2 {
-    font-size: 250%;
-  }
 
-  main p {
-    font-size: 150%;
-  }
 }
 
 @media only screen and (max-width: 768px) {
   /*logo and Heading*/
-
+  #logo {
+    width: 100px;
+    height: auto;
+    margin: 50px 0px 0px 10px;
+  }
+  
+    /* Nav Bar */
+    .nav a {
+      font-size: 80%;
+      letter-spacing: 1px;
+      
+      text-size-adjust: 0;
+    }
+     
+    ul {
+      border-radius: 100px;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 10px 12px;
+      text-decoration: none;
+      
+    }  
+  
+  
+  
+  
   /* Main*/
 
-  /* Nav Bar */
-  .nav {
-    overflow: auto;
-    background-color: #8eaf9d;
-    position: relative;
+  #main-image {
+ 
+    margin-right: 0px;
+    border-radius: 100px;
+
+  }
+  #statement h1 {
+    font-size: 120%;
   }
 
-
-  .navbar a {
-    float: none;
-    display: block;
+  #statement p {
+    font-size: 50%;
   }
-}
+  
 
-  .nav a.icon {
-    background: black;
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
 
-  .nav a:hover {
-    background-color: #ddd;
-    color: #49494e;
-  }
 
-  main h2 {
-    font-size: 200%;
-  }
 
-  main p {
-    font-size: 100%;
-  }
 
 
 
@@ -819,9 +830,52 @@ main p {
 
 @media only screen and (max-width: 480px) {
   /*logo and Heading*/
+  #logo {
+    width: 100px;
+    height: auto;
+    margin: 50px 0px 0px 10px;
+  }
+  
+    /* Nav Bar */
+    .nav a {
+      font-size: 80%;
+      letter-spacing: 1px;
+      
+      text-size-adjust: 0;
+    }
+     
+    ul {
+      border-radius: 100px;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 10px 12px;
+      text-decoration: none;
+      
+    }  
+  
+  
+  
 
   /* Main*/
 
+  #main-image {
+ 
+    margin-right: 0px;
+    border-radius: 100px;
+
+  }
+  #statement h1 {
+    font-size: 120%;
+  }
+
+  #statement p {
+    font-size: 50%;
+  }
+  
 
   /* Footer */
 
