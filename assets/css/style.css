@@ -55,7 +55,7 @@ h1 {
 
 #sub-heading {
   color: #6b7d7d;
-  font-size: auto;
+  font-size: 100%;
   letter-spacing: 15px;
   padding: 0px;
   margin: 0px;
@@ -63,9 +63,19 @@ h1 {
 
 /* Nav Bar */
 
-#nav {
+.nav {
   font-size: 150%;
   letter-spacing: 2px;
+}
+
+
+.nav a {
+  float: left;
+  text-align: center;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 ul {
@@ -755,11 +765,32 @@ main p {
 
   /* Main*/
 
+  /* Nav Bar */
+  .nav {
+    overflow: auto;
+    background-color: #8eaf9d;
+    position: relative;
+  }
 
 
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
 
+  .nav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
 
-
+  .nav a:hover {
+    background-color: #ddd;
+    color: #49494e;
+  }
 
   main h2 {
     font-size: 200%;
@@ -768,6 +799,8 @@ main p {
   main p {
     font-size: 100%;
   }
+
+
 
   /* Footer */
 

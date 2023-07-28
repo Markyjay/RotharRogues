@@ -145,6 +145,7 @@ To get regular updates and reviews of upcoming events.
 ## Testing
 *	HTML5
 Validator testing
+Validator.nu/LV http://validator.w3.org/services
 W3C HTML validator testing
 
 Picture of results
