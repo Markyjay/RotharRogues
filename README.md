@@ -175,19 +175,21 @@ Listed are the main bugs I came across.
 
 1. The pictures gave me issues trying to get them the correct size. Especially for the responsive screen design.
  - Solution; find the best photos to fit the situation, for example in the gallery grid the first and fourth section needed portrait style pictures while sections 2 and 5 needed landscape orientated pictures.
- - The carousel was just a showcase of a little java script and the pictures were chosen for aestetic purpose rather than informational.
-2. The youtube video and map were a bit problematic as well. The video on the Home page is very long and I couldn't manage to get it right.
+ - The carousel was just a showcase of a little JavaScript, and the pictures were chosen for aesthetic purpose rather than informational.
+2. The YouTube video and map were a bit problematic as well. The video on the Home page is very long and I couldn't manage to get it right.
  - Solution; have video in a separate div/section, or change the autofilled width and height that come with the link and amend in CSS.
-3. The logo was a design of my own does not particularly fit with the design of the site, and i also used it as the favicon but it did not render correctly when shrinking to the size of the favicon.
+3. The logo was a design of my own does not particularly fit with the design of the site, and I also used it as the favicon but it did not render correctly when shrinking to the size of the favicon.
  - Solution; Remove reviews.
-4. The media queiries were my biggest issue. I did not realise the problems i would have by not considering the screen sizes from the beginning. I worked on a very large screen and after finishing the design i found that shrinking to phone size tended to change the overall aestetic of certain pages. The gallery did not look as proffesional on a phone as it did a desktop, and the header and logo were very difficult to keep aligned due to the use of float command. 
-5. The first CW3 test pointed out a many errors but they were mostly the picture names had spaces. This is how i learned the best practice of no spaces no capitals. Other errors consisted of some irrelevant spaces and forward slashes, and a lot of media queiry conflicts.
- - Solution; remove the spaces from the picture name as well as any capital letters, remove irrelevant spaces and slashes, and review the media queiries to remove any conflicting elements.
-6. Responsive design doesn't work well when sliding the screen to a smaller size. I felt i was only learning to understand media queiry toward the very end of the project and if i was to to it over again i would take responsivity more seriously from the beggining of the project. Using the devtools to choose each screen size helped alot but i was already so used to using the raw code to alter the design throughout the project.
+4. The media queries were my biggest issue. I did not realise the problems I would have by not considering the screen sizes from the beginning. I worked on a very large screen and after finishing the design I found that shrinking to phone size tended to change the overall aesthetic of certain pages. The gallery did not look as professional on a phone as it did a desktop, and the header and logo were very difficult to keep aligned due to the use of float command. 
+5. The first CW3 test pointed out many errors but they were mostly the picture names had spaces. This is how I learned the best practice of no spaces no capitals. Other errors consisted of some irrelevant spaces and forward slashes, and a lot of media query conflicts.
+ - Solution; remove the spaces from the picture name as well as any capital letters, remove irrelevant spaces and slashes, and review the media queries to remove any conflicting elements.
+6. Responsive design doesn't work well when sliding the screen to a smaller size. I felt I was only learning to understand media query toward the very end of the project and if I was to it over again I would take responsivity more seriously from the beginning of the project. Using the dev-tools to choose each screen size helped a lot but I was already so used to using the raw code to alter the design throughout the project.
  - Solution; I decided to use min-width for 1200px and above and the used old CSS generic screen sizes for below 1200px. 
- After many attempts i decided to do media query for max-width 480px then work back up to 1200px. It helped to start at the smaller screen size.
-7. Resolution in the image on the contact page is still quite low but works somewhat well with the sign up form. The images in the gallery needed some tweeking to fitt in the various sections and the adare manor picture looks to be stretched horizontally but it was the angle that the photo was taken from.
+ After many attempts I decided to do media query for max-width 480px then work back up to 1200px. It helped to start at the smaller screen size.
+7. Resolution in the image on the contact page is still quite low but works somewhat well with the sign up form. The images in the gallery needed some tweaking to fit in the various sections and the Adare manor picture looks to be stretched horizontally but it was the angle that the photo was taken from.
  - Solution; Cropped certain pictures and chose pictures with better resolution.
+
+
 8. 
  
 9. 
