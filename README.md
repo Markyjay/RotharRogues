@@ -232,5 +232,13 @@ https://www.canva.com/
 https://developer.mozilla.org/
 
 ## Acknowledgements
+For inpiration in general, for code, design help and advice, I'd like to give thanks to; 
 
+- Jubril my mentor at Code Institute who was very patient and generous with his time.
+
+- Jody Murray a fellow student I met during a hackathon who help with advice and encouragement..
+
+- Hugh Shepard the creater of the group rothar rogues who contributed some of the content.
+
+- Patricia Young my mother who has been encouraging and patient with me throughout the project.
 
