@@ -1079,16 +1079,17 @@ main p {
 
   /* Contact Page */
   .signup-form {
-    margin: 20px 10% 0 0;
+    margin: 10px 10vw 0 0;
     max-width: 50vw;
     padding-top: 20px;
     padding-right: 40px;
     text-align: left;
+    font-size: smaller;
   }
 
   .signup-form h2 {
     margin-bottom: 20px;
-    font-size: 100%;
+    font-size: 120%;
   }
 
   .text-input {
@@ -1097,14 +1098,15 @@ main p {
     margin: 5px 0 5px;
     border: 1px solid #fafafa;
     border-radius: 2px;
+  
   }
 
   .submit-button {
     margin-top: 10px;
     border-radius: 20px;
     padding: 10px 22px 10px 22px;
-    text-align: center;
     font-size: 80%;
+    border-style: groove;
   }
 
 }
