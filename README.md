@@ -176,9 +176,9 @@ Listed are the main bugs I came across.
 1. The pictures gave me issues trying to get them the correct size. Especially for the responsive screen design.
  - Solution; find the best photos to fit the situation, for example in the gallery grid the first and fourth section needed portrait style pictures while sections 2 and 5 needed landscape orientated pictures.
  - The carousel was just a showcase of a little JavaScript, and the pictures were chosen for aesthetic purpose rather than informational.
-2. The YouTube video and map were a bit problematic as well. The video on the Home page is very long and I couldn't manage to get it right.
- - Solution; have video in a separate div/section, or change the autofilled width and height that come with the link and amend in CSS.
-3. The logo was a design of my own does not particularly fit with the design of the site, and I also used it as the favicon but it did not render correctly when shrinking to the size of the favicon.
+2. The gallery section took many attemtps, i only started to learn CSS and heard about flexbox and CSS grid. I though it seemed easy and would be nice to incorporate it to my first project. I tried many variations for stack overflow and W3C schools as well as many youtube tutorials. 
+ - Solution; It began to get very complicated using css grid so I revised it to a simple five picture mosaic with the intention of growing when more pictures are collected by the group.
+3. The logo was a design of my but own does not particularly fit with the design of the site, and I also used it as the favicon but it did not render correctly when shrinking to the size of the favicon.
  - Solution; Remove reviews.
 4. The media queries were my biggest issue. I did not realise the problems I would have by not considering the screen sizes from the beginning. I worked on a very large screen and after finishing the design I found that shrinking to phone size tended to change the overall aesthetic of certain pages. The gallery did not look as professional on a phone as it did a desktop, and the header and logo were very difficult to keep aligned due to the use of float command. 
 5. The first CW3 test pointed out many errors but they were mostly the picture names had spaces. This is how I learned the best practice of no spaces no capitals. Other errors consisted of some irrelevant spaces and forward slashes, and a lot of media query conflicts.
