@@ -122,7 +122,7 @@ The carousel was added to showcase my basic and recently learned knowledge of ja
 The events section was to add a similar feature as found in the love running project and made a small information gallery on the past and future events that the group has and will be involved.
 
 ## Gallary
-<img src="/documentation/gallery.jpg" alt="Gallery"/>
+<img src="/documentation/gallery.JPG" alt="Gallery"/>
 On my journey of discovery and learning of the new languages HTML and CSS i learned about CSS Flexbox and CSS Grid from websites such as W3C, codepen and youtube. I decided to used a very basic CSS Grid to showcase my ability in this gallery conveying just 5 relevent pictures. As the group gathers more pictures the mosaic can grow and take shape.
 
 ## Footer
@@ -152,24 +152,21 @@ The logo image was used to create a favicon. It rendered badly but i kept it to 
 # Validator testing
 Validator.nu/LV http://validator.w3.org/services
 -HTML5
- - No errors were found using W3C HTML validator testing.
-
-
-Picture of results
-
+ - one error occured during upload of project, had no time to figure out its solution unfortunately.
+ The error was a parse error and I researched on stackoverflow but did not understand its reason. 
+ 
+<img src="/documentation/htmlvalidating.JPG" alt="HTML Validating"/>
 
 -	CSS3
- - No errors were found using W3C HTML validator testing.
+  - No errors were found using W3C HTML validator testing.
 
-
-Picture of results
-
+<img src="/documentation/cssvalidation.JPG" alt="CSS Validating"/>
 
 ## Lighthouse testing
 
+As I progress through the course i hope to learn more about HTML and CSS code to imrove the results of my lighthouse testing.
 
-
-
+<img src="/documentation/lighthousetesting.JPG" alt="Lighthouse testing"/>
 
 ## Testing and bugs
 Test has been conducted using Google Chrome, testing different devices and screen resolutions through google dev tools. 

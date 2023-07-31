@@ -1596,19 +1596,6 @@ main p {
     padding: 5px;
   }
 
-  .gallery__img1 {
-    width: 65vw;
-    margin-top: 5vw;
-  }
-
-  .gallery__img2 {
-    width: 80vw;
-  }
-
-  .gallery__img3 {
-    width: 25vw;
-  }
-
   .comment {
     font-size: 100%;
   }
