@@ -53,7 +53,7 @@ body {
 
 /* Nav Bar */
 
-.nav div{
+.nav div {
   letter-spacing: 2px;
 
 }
@@ -1342,6 +1342,20 @@ main p {
     font-size: 150%;
   }
 
+  #events div {
+    width: 100%;
+    height: auto;
+  }
+
+  #events img {
+    width: 40vw;
+  }
+
+  #events h2 
+  h3 {
+    font-size: 60%;
+  }
+
   /* Gallery page */
   #gallery {
     display: inline-block;
@@ -1586,19 +1600,20 @@ main p {
     font-size: 150%;
   }
 
- #events div{
-  width:100%;
-  height: auto;
- }
+  #events div {
+    width: 100%;
+    height: auto;
+  }
 
- #events img{
-  width: 40vw;
- }
+  #events img {
+    width: 40vw;
+  }
 
-  #events h2, h3 {
+  #events h2,
+  h3 {
     font-size: 80%;
   }
-  
+
   /* Gallery page */
   #gallery {
     display: inline-block;
