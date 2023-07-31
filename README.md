@@ -122,6 +122,7 @@ The carousel was added to showcase my basic and recently learned knowledge of ja
 The events section was to add a similar feature as found in the love running project and made a small information gallery on the past and future events that the group has and will be involved.
 
 ## Gallary
+<img src="/documentation/gallery.jpg" alt="Gallery"/>
 On my journey of discovery and learning of the new languages HTML and CSS i learned about CSS Flexbox and CSS Grid from websites such as W3C, codepen and youtube. I decided to used a very basic CSS Grid to showcase my ability in this gallery conveying just 5 relevent pictures. As the group gathers more pictures the mosaic can grow and take shape.
 
 https://www.w3schools.com/css/css_grid.asp
@@ -138,6 +139,10 @@ The second section floats left and has four useful links relevent to the group a
 <img src="/documentation/contactpage.jpg" alt="Contact"/>
 
 To get regular updates and reviews of upcoming events and allow people the opportunity to get involved and join the group on excursions and events.
+
+## Favicon
+<img src="/documentation/faviconlogo.png" alt="Favicon Logo"/>
+The logo image was used to create a favicon. It rendered badly but i kept it to show the use of my own personally created logo for the group. The site https://www.favicon.cc/ was used to create the favicon.
 
 
 ## Technologies Used
