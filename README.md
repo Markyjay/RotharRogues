@@ -152,8 +152,7 @@ The logo image was used to create a favicon. It rendered badly but i kept it to 
 # Validator testing
 Validator.nu/LV http://validator.w3.org/services
 -HTML5
- - one error occured during upload of project, had no time to figure out its solution unfortunately.
- The error was a parse error and I researched on stackoverflow but did not understand its reason. 
+  - No errors were found using W3C HTML validator testing. 
  
 <img src="/documentation/htmlvalidating.JPG" alt="HTML Validating"/>
 
