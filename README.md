@@ -68,7 +68,7 @@ The colour scheme I picked myself using the site https://coolors.co/, I found th
 * Cambrigde blue for the navigation bar as well as the about and events section.
 *	A basic gray for the text and in some cases a white depending on the background color.
 *	Two other colors were chosen to help contrast certain sections and that is this color blue #0889EA
-and this beautiful shade of red #f16c6b for the submit button and contact form highlighting 
+and this beautiful shade of red #f16c6b for the submit button and contact form highlighting.
 
 ## Topography
 *	The fonts used for this project were from https://fonts.google.com/
@@ -141,11 +141,9 @@ To get regular updates and reviews of upcoming events and allow people the oppor
 
 The logo image was used to create a favicon. It rendered badly but i kept it to show the use of my own personally created logo for the group. The site https://www.favicon.cc/ was used to create the favicon.
 
-
 ## Technologies Used
 -	HTML5
 -	CSS3
-- JavaScript
 
 ## Testing
 
@@ -186,6 +184,8 @@ Listed are the main bugs I came across.
  After many attempts I decided to do media query for max-width 480px then work back up to 1200px. It helped to start at the smaller screen size.
 7. Resolution in the image on the contact page is still quite low but works somewhat well with the sign up form. The images in the gallery needed some tweaking to fit in the various sections and the Adare manor picture looks to be stretched horizontally but it was the angle that the photo was taken from.
  - Solution; Cropped certain pictures and chose pictures with better resolution.
+8. I used some JavaScript for the carousel or slideshow as shown by https://www.w3schools.com/howto/howto_js_slideshow.asp, i tried to incorporate jave as a prequel to my next code institute project. Hoping for a little headstart and to show some initiative.
+
 
 ## Deployment
 
@@ -194,9 +194,9 @@ The live version of the project is deployed at GitHub pages.
 The procedure for deployment followed the "Creating your site" steps provided in GitHub Docs.
 * Log into Github. 
 * Select the correct GitHub Repository to be deployed live.
-* Underneath the repository name, click the “Settings” option.
-* In the sub-section list on the left, under “Code and automation”, click “Pages”.
-* Within the ”Source” section choose ”main” as Branch and root as folder and click ”Save”.
+* Underneath the repository name, click the "Settings" option.
+* In the sub-section list on the left, under "Pages".
+* Within the "Source" section choose "main" as Branch and "root" as folder and click "Save".
 * The page refreshes and a website shall then deploy via a link.
 
 The live deployed link can be found here : https://markyjay.github.io/project1/
@@ -253,4 +253,6 @@ For inpiration in general, for code, design help and advice, I'd like to give th
 - Hugh Shepard the creater of the group rothar rogues who contributed some of the content.
 
 - Patricia Young my mother who has been encouraging and patient with me throughout the project.
+
+- Slack members and the code institute tutoring service was also helpful throughout the project.
 
