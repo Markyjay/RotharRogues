@@ -15,7 +15,7 @@ Users of the website will see the great things they have done and intend to do a
 This project is the first of 5 projects that is required in order to receive my diploma in software development from the code institute.
 The languages used to create the website are HTML5 and CSS3.
 
-A live version of the site can be found here: 
+A live version of the site can be found here: https://markyjay.github.io/project1/
 
 # Table of contents
 - [UX](#ux "UX")

@@ -543,7 +543,7 @@ main p {
 
 .form-section {
   clear: left;
-  background: url(assets/images/bikeunderbridge.jpg);
+  background: url(../images/bikeunderbridge.jpg);
   background-size: cover;
   background-position: center;
   border-radius: 30px;
