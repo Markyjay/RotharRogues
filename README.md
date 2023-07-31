@@ -1,7 +1,7 @@
 # Rothar Rogues
 
 
-Picture
+<img src="/documentation/iamresponsive.JPG" alt="responsiveness"/>
 
 
 This website was designed to bring attention to a great community project called the Rother Rogues. Essentially a men’s shed on wheels that brings older men together by involving them in healthy based activities such as cycling and walking, local charity and travel excursions.
