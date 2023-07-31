@@ -200,7 +200,7 @@ The procedure for deployment followed the "Creating your site" steps provided in
 * Within the ”Source” section choose ”main” as Branch and root as folder and click ”Save”.
 * The page refreshes and a website shall then deploy via a link.
 
-The live deployed link can be found here :
+The live deployed link can be found here : https://markyjay.github.io/project1/
 
 
 ## Media Sources
