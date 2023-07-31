@@ -237,6 +237,13 @@ https://www.w3schools.com/css/css_grid.asp
 https://codepen.io/waffleknit/pen/KJEpLp
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
 
+* Error research
+To fix errors in my code i utilised sites such as
+https://stackoverflow.com/
+https://www.youtube.com/
+https://www.w3schools.com/
+
+
 ## Acknowledgements
 For inpiration in general, for code, design help and advice, I'd like to give thanks to; 
 
