@@ -115,6 +115,7 @@ li a:hover {
   background-color: #b9cdda;
   border-radius: 100px;
   width: 60vw;
+  min-height: 400px;
   height: auto;
   margin-left: 20px;
 }
@@ -132,6 +133,8 @@ li a:hover {
 /* Relevent Picture */
 
 #picture {
+  max-height: 600px;
+  max-width: 600px;
   height: auto;
   width: 30vw;
   border-radius: 100px;
@@ -149,6 +152,7 @@ li a:hover {
   background-color: rgb(8, 137, 234, 0.68);
   border-radius: 60px;
   width: 60vw;
+  min-height: 400px;
   height: auto;
   margin-left: 25vw;
   margin-top: 10vw;
@@ -607,9 +611,9 @@ main p {
   /*logo and Heading*/
 
   #logo {
-    width: 220px;
+    width: 200px;
     height: auto;
-    margin: 35px 0px 0px 20px;
+    margin: 20px 0px 0px 50px;
   }
 
   #heading {
@@ -630,6 +634,7 @@ main p {
   /* Nav Bar */
   .nav {
     margin-left: 5vw;
+ 
   }
 
   .nav a {
@@ -639,12 +644,14 @@ main p {
 
   ul {
     width: 85vw;
+    height: 140px;
   }
 
   /* Main*/
 
   #main-image {
     margin-right: 90px;
+    max-height: 600px;
   }
 
   #welcome {
