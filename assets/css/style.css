@@ -608,9 +608,9 @@ main p {
   /*logo and Heading*/
 
   #logo {
-    width: 140px;
+    width: 220px;
     height: auto;
-    margin: 25px 0px 0px 120px;
+    margin: 35px 0px 0px 20px;
   }
 
   #heading {
@@ -941,7 +941,7 @@ main p {
   }
 
   #heading {
-    margin-left: 15px;
+    margin-left: 150px;
     margin-top: 0;
     border-top: 0;
     padding-top: 0;
@@ -1164,13 +1164,13 @@ main p {
 
   /*logo and Heading*/
   #logo {
-    width: 120px;
+    width: 100px;
     height: auto;
     margin: 10px 0px 0px 0px;
   }
 
   #heading {
-    margin-left: 15px;
+    margin-left: 120px;
     margin-top: 0;
     border-top: 0;
     padding-top: 0;
@@ -1197,7 +1197,7 @@ main p {
   }
 
   ul {
-    height: 11vw;
+    height: auto;
     width: 70vw;
   }
 
@@ -1431,7 +1431,7 @@ main p {
   }
 
   ul {
-    height: 12vw;
+    height: auto;
     width: 70vw;
   }
 

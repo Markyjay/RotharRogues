@@ -125,10 +125,6 @@ The events section was to add a similar feature as found in the love running pro
 <img src="/documentation/gallery.jpg" alt="Gallery"/>
 On my journey of discovery and learning of the new languages HTML and CSS i learned about CSS Flexbox and CSS Grid from websites such as W3C, codepen and youtube. I decided to used a very basic CSS Grid to showcase my ability in this gallery conveying just 5 relevent pictures. As the group gathers more pictures the mosaic can grow and take shape.
 
-https://www.w3schools.com/css/css_grid.asp
-https://codepen.io/waffleknit/pen/KJEpLp
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
-
 ## Footer
 <img src="/documentation/footer.jpg" alt="Footer"/>
 
@@ -142,6 +138,7 @@ To get regular updates and reviews of upcoming events and allow people the oppor
 
 ## Favicon
 <img src="/documentation/faviconlogo.png" alt="Favicon Logo"/>
+
 The logo image was used to create a favicon. It rendered badly but i kept it to show the use of my own personally created logo for the group. The site https://www.favicon.cc/ was used to create the favicon.
 
 
@@ -193,8 +190,6 @@ Listed are the main bugs I came across.
  After many attempts I decided to do media query for max-width 480px then work back up to 1200px. It helped to start at the smaller screen size.
 7. Resolution in the image on the contact page is still quite low but works somewhat well with the sign up form. The images in the gallery needed some tweaking to fit in the various sections and the Adare manor picture looks to be stretched horizontally but it was the angle that the photo was taken from.
  - Solution; Cropped certain pictures and chose pictures with better resolution.
-
-
 8. 
  
 9. 
@@ -220,21 +215,37 @@ The live deployed link can be found here :
 
 ## Media Sources
 
-The media sources below a 
+* Development
+<img src="/documentation/figma.jpg" alt="Figma Website"/>
+The site application Figma was used to portray an overall image of the project beforehand.
 
-https://codepen.io/waffleknit/pen/KJEpLp
-https://www.youtube.com/ 
-https://www.w3schools.com/
+* Color Pallete
+To choose the correct color pallete this site was utilised.
 https://coolors.co/
 
+* Font styling
+The following site was used to generate a good combination of font that worked well with the theme of the site.
+
 https://cdnjs.com/libraries/font-awesome
-https://ui.dev/amiresponsive
+
+* Logo Design
+I decided to create a unique logo using the following site.
+
 https://www.canva.com/
 
+* Responsivity
+
+This site was recommended by code institute and used to portray the responsivity of the project. 
+
+https://ui.dev/amiresponsive
 
 ## Other Sources
 
-https://developer.mozilla.org/
+* Learning CSS Grid
+To learn CCS grid these sites were utilised.
+https://www.w3schools.com/css/css_grid.asp
+https://codepen.io/waffleknit/pen/KJEpLp
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
 
 ## Acknowledgements
 For inpiration in general, for code, design help and advice, I'd like to give thanks to; 
